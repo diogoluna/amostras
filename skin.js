@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 8.0.1/22530
 // Filename: colodete_skin_amaro2.ggsk
-// Generated 2026-07-08T19:40:08Z
+// Generated 2026-07-08T20:16:03Z
 
 function pano2vrSkin(player,base) {
 	player.addVariable('copiado', 2, false, { ignoreInState: 0  });

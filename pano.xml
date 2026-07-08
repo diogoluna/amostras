@@ -10,7 +10,7 @@
     </input>
     <userdata altitude="73.80" author="" capturedatetime="2026-06-16T13:48:20" comment="https://maps.app.goo.gl/7NptXyi2pPL2H8os9" copyright="" customnodeid="" datetime="16/06/2026 13:48" description="rua Senador José Henrique - nº 80 – Ilha do leite, Recife PE&#xa;Area/Lote: 889,97 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06543753" longitude="-34.89459919" nodeid="node1" source="" tags="Amostra1" title="A1_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="173.321" pan="0" projection="9" tilt="0"/>
+      <start fov="118.895" pan="-3.66" projection="9" tilt="1.18"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -2132,7 +2132,7 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{59605fbf-19f6-4ebc-885f-a558c8443d5a}"/>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{28f9881c-8f02-4eed-9bab-4af2fa553e2d}"/>
     <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
     <animationsequences>
