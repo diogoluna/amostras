@@ -10,7 +10,7 @@
     </input>
     <userdata altitude="73.80" author="" capturedatetime="2026-06-16T13:48:20" comment="https://maps.app.goo.gl/7NptXyi2pPL2H8os9" copyright="" customnodeid="" datetime="16/06/2026 13:48" description="rua Senador José Henrique - nº 80 – Ilha do leite, Recife PE&#xa;Area/Lote: 889,97 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06543753" longitude="-34.89459919" nodeid="node1" source="" tags="Amostra1" title="A1_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="126.58" pan="0" projection="4" tilt="0"/>
+      <start fov="173.321" pan="0" projection="9" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -114,7 +114,7 @@
     </input>
     <userdata altitude="101.08" author="" capturedatetime="2026-06-16T14:54:00" comment="https://maps.app.goo.gl/JhR3PdkQgdL5SijL7" copyright="" customnodeid="" datetime="16/06/2026 14:54" description="AV. Paissandu rua do Paissandu 645 – Paissandu, Recife PE&#xa;Area/Lote: 3200 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06262603" longitude="-34.89945186" nodeid="node7" source="" tags="Amostra4" title="A4_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="147.245" pan="3.30821" projection="4" tilt="0"/>
+      <start fov="136.119" pan="3.99674" projection="4" tilt="-46.5859"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -166,7 +166,7 @@
     </input>
     <userdata altitude="112.40" author="" capturedatetime="2026-06-16T15:21:23" comment="" copyright="" customnodeid="" datetime="16/06/2026 15:21" description="Rua Gen. Joaquim Inácio - Nº 86/100 – Boa vista, Recife PE&#xa;Area/Lote: 714,00 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06411692" longitude="-34.89233542" nodeid="node10" source="" tags="Amostra5" title="A5_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="116.326" pan="2.36699" projection="4" tilt="-52.8259"/>
+      <start fov="92.2107" pan="0.133049" projection="4" tilt="-42.4775"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -218,7 +218,7 @@
     </input>
     <userdata altitude="103.31" author="" capturedatetime="2026-06-16T15:51:06" comment="https://maps.app.goo.gl/zCSwT2voJuFZrASk8" copyright="" customnodeid="" datetime="16/06/2026 15:51" description="Av. João de barros - Nº 931 – Santo Amaro, Recife PE&#xa;Area/Lote: 565,63m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04636325" longitude="-34.88953189" nodeid="node13" source="" tags="Amostra6" title="A6_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="116.326" pan="7.42438" projection="4" tilt="-61.5051"/>
+      <start fov="92.2107" pan="3.7964" projection="4" tilt="-55.1485"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -322,7 +322,7 @@
     </input>
     <userdata altitude="71.47" author="" capturedatetime="2026-06-17T09:50:15" comment="https://maps.app.goo.gl/2zabnqJWBvqGi1ik8" copyright="" customnodeid="" datetime="17/06/2026 09:50" description="Rua José Alencar - Nº 367 - Lote 2-a – Boa Vista, Recife PE&#xa;Area/Lote: 2465,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06168631" longitude="-34.88969447" nodeid="node19" source="" tags="Amostra8" title="A8_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="136.119" pan="-4.54249" projection="4" tilt="0"/>
+      <start fov="116.326" pan="-4.66964" projection="4" tilt="-35.9731"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -426,7 +426,7 @@
     </input>
     <userdata altitude="93.78" author="" capturedatetime="2026-06-17T10:41:32" comment="https://maps.app.goo.gl/283Njg6nUVJ9QRdt5" copyright="" customnodeid="" datetime="17/06/2026 10:41" description="Praça Oswaldo Cruz - Nº 446 – Soldado, Recife PE&#xa;Area/Lote: 1296,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05630036" longitude="-34.89096664" nodeid="node25" source="" tags="Amostra10" title="A10_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="91.8995" pan="4.26772" projection="4" tilt="-40.1153"/>
+      <start fov="109.472" pan="-0.146489" projection="4" tilt="-41.9188"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -530,7 +530,7 @@
     </input>
     <userdata altitude="100.42" author="" capturedatetime="2026-06-17T11:31:44" comment="https://maps.app.goo.gl/yAyWgyh9sUVj5JPc8" copyright="" customnodeid="" datetime="17/06/2026 11:31" description="Rua Prof. Costa Pinto - Nº 115 – Encruzilhada, Recife PE&#xa;Area/Lote: 1600,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03102800" longitude="-34.89185172" nodeid="node31" source="" tags="Amostra12" title="A12_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="99.411" pan="-0.315751" projection="4" tilt="-64.2592"/>
+      <start fov="92.5802" pan="-0.251155" projection="4" tilt="-64.6198"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -582,7 +582,7 @@
     </input>
     <userdata altitude="103.46" author="" capturedatetime="2026-06-17T13:25:59" comment="https://maps.app.goo.gl/Q8BiMjRh9B6HidAf9" copyright="" customnodeid="" datetime="17/06/2026 13:25" description="Rua Honório Correia - Nº 97/87 – Cordeiro, Recife PE&#xa;Area/Lote: 960,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05203825" longitude="-34.92014225" nodeid="node34" source="" tags="Amostra13" title="A13_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="126.766" pan="1.21701" projection="4" tilt="-44.8795"/>
+      <start fov="92.5802" pan="-0.113261" projection="4" tilt="-46.0351"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -634,7 +634,7 @@
     </input>
     <userdata altitude="105.50" author="" capturedatetime="2026-06-17T13:59:19" comment="https://maps.app.goo.gl/iKT7Af6SqJ8foj4aA" copyright="" customnodeid="" datetime="17/06/2026 13:59" description="Praça do Derby 190 – Derby, Recife PE&#xa;Area/Lote: 1035,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05674575" longitude="-34.89991144" nodeid="node37" source="" tags="Amostra14" title="A14_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="100.147" pan="0.952982" projection="4" tilt="-44.347"/>
+      <start fov="108.333" pan="-1.57048" projection="4" tilt="-45.6025"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -686,7 +686,7 @@
     </input>
     <userdata altitude="89.21" author="" capturedatetime="2026-06-17T14:49:22" comment="https://maps.app.goo.gl/DVoLNLGGboFjyZDEA" copyright="" customnodeid="" datetime="17/06/2026 14:49" description="Av. Dezessete de agosto 1234 – Casa Forte, Recife PE&#xa;Area/Lote: 1382,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03731433" longitude="-34.91992047" nodeid="node40" source="" tags="Amostra15" title="A15_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="99.411" pan="0.112365" projection="4" tilt="-54.7689"/>
+      <start fov="108.333" pan="-2.30431" projection="4" tilt="-53.8799"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -738,7 +738,7 @@
     </input>
     <userdata altitude="122.67" author="" capturedatetime="2026-06-17T15:23:53" comment="https://maps.app.goo.gl/p67LghzbKam51H757" copyright="" customnodeid="" datetime="17/06/2026 15:23" description="Rua salvador de Sá - nº 251/271 – Rosarinho, Recife PE&#xa;Area/Lote: 909,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03119753" longitude="-34.89566731" nodeid="node43" source="" tags="Amostra16" title="A16_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="99.411" pan="-4.99848" projection="4" tilt="-43.5405"/>
+      <start fov="108.333" pan="-8.17796" projection="4" tilt="-43.0005"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -790,7 +790,7 @@
     </input>
     <userdata altitude="102.34" author="" capturedatetime="2026-06-17T15:45:44" comment="https://maps.app.goo.gl/sAD5epP5GfZ2VYxH9" copyright="" customnodeid="" datetime="17/06/2026 15:45" description="Rua Buenos Aires 201 – Espinheiro, Recife PE&#xa;Area/Lote: 462,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04752692" longitude="-34.89432036" nodeid="node46" source="" tags="Amostra17" title="A17_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="93.169" pan="-0.681316" projection="4" tilt="-47.5167"/>
+      <start fov="91.8995" pan="0.118294" projection="4" tilt="-50.7294"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -842,7 +842,7 @@
     </input>
     <userdata altitude="114.46" author="" capturedatetime="2026-06-17T16:13:06" comment="https://maps.app.goo.gl/PSTQmnQUUacdidyJA" copyright="" customnodeid="" datetime="17/06/2026 16:13" description="Rua prof. Otávio de Freitas - nº 334 – Encruzilhada, Recife PE&#xa;Area/Lote: 300,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03294086" longitude="-34.89334208" nodeid="node49" source="" tags="Amostra18" title="A18_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="68.5557" pan="-1.05004" projection="4" tilt="-53.5194"/>
+      <start fov="91.8995" pan="3.10392" projection="4" tilt="-49.5964"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -894,7 +894,7 @@
     </input>
     <userdata altitude="123.79" author="" capturedatetime="2026-06-17T16:40:16" comment="https://maps.app.goo.gl/G694Jnsi3gkBiAaY8" copyright="" customnodeid="" datetime="17/06/2026 16:40" description="Rua José de Holanda - nº 914 – Torre, Recife PE&#xa;Area/Lote: 1118,87m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04560142" longitude="-34.91326481" nodeid="node52" source="" tags="Amostra19" title="A19_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="84.9555" pan="0.257215" projection="4" tilt="-48.6464"/>
+      <start fov="107.536" pan="1.3218" projection="4" tilt="-49.733"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -946,7 +946,7 @@
     </input>
     <userdata altitude="117.71" author="" capturedatetime="2026-06-17T17:11:02" comment="https://maps.app.goo.gl/biYNrZ8KqF7wGh9AA" copyright="" customnodeid="" datetime="17/06/2026 17:11" description="Rua dona Rita de Souza - nº 229 – Parnamirim, Recife PE&#xa;Area/Lote: 517,50m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03392017" longitude="-34.91668236" nodeid="node55" source="" tags="Amostra20" title="A20_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="78.2711" pan="2.96323" projection="4" tilt="-51.7136"/>
+      <start fov="107.536" pan="-1.38306" projection="4" tilt="-49.2371"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -998,7 +998,7 @@
     </input>
     <userdata altitude="103.43" author="" capturedatetime="2026-06-18T08:17:00" comment="https://maps.app.goo.gl/mjCGPvgBmLqkGGHD7" copyright="" customnodeid="" datetime="18/06/2026 08:17" description="Rua eng. Clóvis de Castro - Nº 91 – 100 – Parnamirim, Recife PE&#xa;Area/Lote: 360,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03188428" longitude="-34.91062233" nodeid="node58" source="" tags="Amostra21" title="A21_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="87.759" pan="0.995289" projection="4" tilt="-50.8566"/>
+      <start fov="107.536" pan="-1.38306" projection="4" tilt="-49.2371"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1050,7 +1050,7 @@
     </input>
     <userdata altitude="91.44" author="" capturedatetime="2026-06-18T08:59:09" comment="https://maps.app.goo.gl/TTXxKLFceDZ6WgAr8" copyright="" customnodeid="" datetime="18/06/2026 08:59" description="Av. Visconde de Suassuna 797 – Santo Amaro, Recife PE&#xa;Area/Lote: 1365,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05141856" longitude="-34.88793969" nodeid="node61" source="" tags="Amostra22" title="A22_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="99.411" pan="-7.99791" projection="4" tilt="-48.3244"/>
+      <start fov="107.536" pan="1.83594" projection="4" tilt="-53.173"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1102,7 +1102,7 @@
     </input>
     <userdata altitude="90.93" author="" capturedatetime="2026-06-18T09:17:45" comment="https://maps.app.goo.gl/tCu8ALS1yrX1omri7" copyright="" customnodeid="" datetime="18/06/2026 09:17" description="Rua Afonso Pena Nº 438 – Santo Amaro, Recife PE&#xa;Area/Lote: 1176,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05124894" longitude="-34.88626914" nodeid="node64" source="" tags="Amostra23" title="A23_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="117.933" pan="-1.69788" projection="4" tilt="-55.7543"/>
+      <start fov="107.536" pan="16.3668" projection="4" tilt="-50.9727"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1154,7 +1154,7 @@
     </input>
     <userdata altitude="82.00" author="" capturedatetime="2026-06-18T09:36:37" comment="https://maps.app.goo.gl/wFaBcuhCBKEk9J3f7" copyright="" customnodeid="" datetime="18/06/2026 09:36" description="Av. Cruz Cabugá 1063 – Santo Amaro, Recife PE&#xa;Area/Lote: 2300,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04589692" longitude="-34.87509644" nodeid="node67" source="" tags="Amostra24" title="A24_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="117.188" pan="0.772699" projection="4" tilt="-31.1688"/>
+      <start fov="107.536" pan="-1.30744" projection="4" tilt="-46.6132"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1206,7 +1206,7 @@
     </input>
     <userdata altitude="128.69" author="" capturedatetime="2026-06-18T10:24:48" comment="https://maps.app.goo.gl/bMiM2rtKqTmVAHtv8" copyright="" customnodeid="" datetime="18/06/2026 10:24" description="Av. Sen. Sérgio Guerra 129 – Boa Viagem, Recife PE&#xa;Area/Lote: 8174,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.15592611" longitude="-34.91044664" nodeid="node71" source="" tags="Amostra25" title="A25_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="126.58" pan="0" projection="4" tilt="0"/>
+      <start fov="147.245" pan="-2.39327" projection="4" tilt="-31.0971"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1258,7 +1258,7 @@
     </input>
     <userdata altitude="101.86" author="" capturedatetime="2026-06-18T11:06:14" comment="https://maps.app.goo.gl/hVjE2FvtDBYY3i7q9" copyright="" customnodeid="" datetime="18/06/2026 11:06" description="Estrada dos Remédios 1451 – Afogados, Recife PE&#xa;Area/Lote: 26000,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06733728" longitude="-34.90908833" nodeid="node73" source="" tags="Amostra26" title="A26_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="125.834" pan="-1.72268" projection="4" tilt="-35.9025"/>
+      <start fov="128.149" pan="-1.96253" projection="4" tilt="-29.7563"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1310,7 +1310,7 @@
     </input>
     <userdata altitude="162.97" author="" capturedatetime="2026-06-18T11:32:29" comment="https://maps.app.goo.gl/3vUbY39RWcjRVrnr9" copyright="" customnodeid="" datetime="18/06/2026 11:32" description="Rua Barão Homem de Melo 38 – Imbiribeira, Recife PE&#xa;Area/Lote: 12495,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.09691164" longitude="-34.91599639" nodeid="node76" source="" tags="Amostra27" title="A27_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="99.411" pan="0.00329882" projection="4" tilt="-56.1944"/>
+      <start fov="128.149" pan="-0.146141" projection="4" tilt="-53.3791"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1362,7 +1362,7 @@
     </input>
     <userdata altitude="107.86" author="" capturedatetime="2026-06-18T12:30:20" comment="https://maps.app.goo.gl/FbuGzEnQ3RgsfdHG6" copyright="" customnodeid="" datetime="18/06/2026 12:30" description="Rua João Cardoso Aires 835 – Boa Viagem, Recife PE&#xa;Area/Lote: 6500,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.14087064" longitude="-34.91348144" nodeid="node79" source="" tags="Amostra28" title="A28_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="100.784" pan="0.101913" projection="4" tilt="-41.8777"/>
+      <start fov="128.149" pan="-0.372796" projection="4" tilt="-28.9446"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1414,7 +1414,7 @@
     </input>
     <userdata altitude="97.71" author="" capturedatetime="2026-06-18T13:21:25" comment="https://maps.app.goo.gl/Ajbh7Rbn7GGk33827" copyright="" customnodeid="" datetime="18/06/2026 13:21" description="Rua das Pernambucanas - nº 100 – Graças, Recife PE&#xa;Area/Lote: 1022,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05098686" longitude="-34.89947358" nodeid="node82" source="" tags="Amostra29" title="A29_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="91.8995" pan="1.00753" projection="4" tilt="-49.2604"/>
+      <start fov="128.149" pan="0.575748" projection="4" tilt="-46.1869"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1466,7 +1466,7 @@
     </input>
     <userdata altitude="108.36" author="" capturedatetime="2026-06-18T14:05:25" comment="https://maps.app.goo.gl/fWYYdZnTg61ayRsB6" copyright="" customnodeid="" datetime="18/06/2026 14:05" description="Rua Joaquim Bandeira 40 – Imbiribeira, Recife PE&#xa;Area/Lote: 2300,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.10979389" longitude="-34.91063836" nodeid="node85" source="" tags="Amostra30" title="A30_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="99.411" pan="1.34593" projection="4" tilt="-45.746"/>
+      <start fov="128.149" pan="0.575748" projection="4" tilt="-46.1869"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1518,7 +1518,7 @@
     </input>
     <userdata altitude="112.04" author="" capturedatetime="2026-06-18T14:32:02" comment="https://maps.app.goo.gl/42YnzFn3c4BKqqBg8" copyright="" customnodeid="" datetime="18/06/2026 14:32" description="AV. Pinheiros 1110 – Imbiribeira, Recife PE&#xa;Area/Lote: 2860,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.09262772" longitude="-34.91729808" nodeid="node88" source="" tags="Amostra31" title="A31_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="108.333" pan="-3.46464" projection="4" tilt="-50.6199"/>
+      <start fov="128.149" pan="-3.12061" projection="4" tilt="-47.2033"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1570,7 +1570,7 @@
     </input>
     <userdata altitude="97.71" author="" capturedatetime="2026-06-18T13:22:50" comment="https://maps.app.goo.gl/M8dqesJxQpUKATuq5" copyright="" customnodeid="" datetime="18/06/2026 13:22" description="Rua das Pernambucanas - nº 100 – Graças, Recife PE&#xa;Area/Lote: 3141,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05203806" longitude="-34.89923606" nodeid="node91" source="" tags="Amostra32" title="A32_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="107.536" pan="-2.25007" projection="4" tilt="-47.1749"/>
+      <start fov="128.149" pan="1.78703" projection="4" tilt="-55.5442"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1622,7 +1622,7 @@
     </input>
     <userdata altitude="109.11" author="" capturedatetime="2026-06-18T15:03:41" comment="https://maps.app.goo.gl/Lv9yAavVSWGy4Ybp8" copyright="" customnodeid="" datetime="18/06/2026 15:03" description="Rua Carlos Gomes 1154 – Bongi, Recife PE&#xa;Area/Lote: 9000,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06576883" longitude="-34.91329592" nodeid="node94" source="" tags="Amostra33" title="A33_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="107.536" pan="-1.74722" projection="4" tilt="-40.2507"/>
+      <start fov="118.466" pan="2.47484" projection="4" tilt="-44.19"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1674,7 +1674,7 @@
     </input>
     <userdata altitude="112.52" author="" capturedatetime="2026-06-18T15:37:28" comment="https://maps.app.goo.gl/mNu4E5jg5RA4vFKW6" copyright="" customnodeid="" datetime="18/06/2026 15:37" description="AV. Militar – Recife, Recife PE&#xa;Area/Lote: 7668,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05210906" longitude="-34.87097719" nodeid="node97" source="" tags="Amostra34" title="A34_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="99.411" pan="2.66183" projection="4" tilt="-44.0299"/>
+      <start fov="118.466" pan="2.47484" projection="4" tilt="-44.19"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1726,7 +1726,7 @@
     </input>
     <userdata altitude="88.30" author="" capturedatetime="2026-06-18T15:59:23" comment="https://maps.app.goo.gl/m643b3w1f4kGMzhF8" copyright="" customnodeid="" datetime="18/06/2026 15:59" description="Av. João de Barros 1311, Espinheiro, Recife PE&#xa;Area/Lote: 1100,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04411442" longitude="-34.89090431" nodeid="node100" source="" tags="Amostra35" title="A35_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="93.5902" pan="-5.27134" projection="4" tilt="-44.4372"/>
+      <start fov="93.5902" pan="2.47473" projection="4" tilt="-44.19"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1778,7 +1778,7 @@
     </input>
     <userdata altitude="70.73" author="" capturedatetime="2026-06-18T16:45:25" comment="https://maps.app.goo.gl/zRWzoTTQh7t5NSno7" copyright="" customnodeid="" datetime="18/06/2026 16:45" description="Av. General Mac Arthur, Imbiribeira, Recife PE&#xa;Area/Lote: 939,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.11289756" longitude="-34.90176325" nodeid="node103" source="" tags="Amostra36" title="A36_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="80.8911" pan="0.125465" projection="4" tilt="-39.4429"/>
+      <start fov="107.536" pan="-0.0785314" projection="4" tilt="-44.2769"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1830,7 +1830,7 @@
     </input>
     <userdata altitude="45.73" author="" capturedatetime="2026-06-18T17:04:07" comment="https://maps.app.goo.gl/HzkLEbJrkfoGhC2v6" copyright="" customnodeid="" datetime="18/06/2026 17:04" description="Rua Feliciano José de Farias 160, Boa Viagem, Recife PE&#xa;Area/Lote: 600,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.13306528" longitude="-34.90504283" nodeid="node106" source="" tags="Amostra37" title="A37_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="99.7477" pan="-5.29124" projection="4" tilt="-41.5713"/>
+      <start fov="107.536" pan="-0.0785305" projection="4" tilt="-44.2769"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1882,7 +1882,7 @@
     </input>
     <userdata altitude="60.92" author="" capturedatetime="2026-06-19T08:02:42" comment="https://maps.app.goo.gl/14ciVRT9HXatkJm58" copyright="" customnodeid="" datetime="19/06/2026 08:02" description="Rua Treze de maio 657, Santo Amaro, Recife PE&#xa;Area/Lote: 3268,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04842322" longitude="-34.88171061" nodeid="node109" source="" tags="Amostra38" title="A38_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="99.411" pan="-3.24454" projection="4" tilt="-40.1602"/>
+      <start fov="107.536" pan="-3.97744" projection="4" tilt="-32.462"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1934,7 +1934,7 @@
     </input>
     <userdata altitude="55.80" author="" capturedatetime="2026-06-19T08:15:30" comment="https://maps.app.goo.gl/fgfzLWMnv4dwtt2u8" copyright="" customnodeid="" datetime="19/06/2026 08:15" description="Rua Pedro Afonso 120 - 156, Santo Amaro, Recife PE&#xa;Area/Lote: 4000,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05068256" longitude="-34.88062811" nodeid="node112" source="" tags="Amostra39" title="A39_aerea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="107.536" pan="-1.28094" projection="4" tilt="0"/>
+      <start fov="107.536" pan="1.7748" projection="4" tilt="-50.7265"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -2132,7 +2132,7 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{37d9df4f-74f2-4195-aa4e-fbba7d13132b}"/>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{59605fbf-19f6-4ebc-885f-a558c8443d5a}"/>
     <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
     <animationsequences>
