@@ -1,0 +1,2146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="22530" appversion="8.0.1" hassounds="0" start="node1">
+  <panorama id="node1">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="73.80" author="" capturedatetime="2026-06-16T13:48:20" comment="https://maps.app.goo.gl/7NptXyi2pPL2H8os9" copyright="" customnodeid="" datetime="16/06/2026 13:48" description="rua Senador José Henrique - nº 80 – Ilha do leite, Recife PE&#xa;Area/Lote: 889,97 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06543753" longitude="-34.89459919" nodeid="node1" source="" tags="Amostra1" title="A1_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input cylinder="1" flat="1" height="899" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1394">
+      <level height="899" predecode="0" preload="0" width="1394"/>
+      <level height="449" predecode="0" preload="0" width="697"/>
+      <level height="224" predecode="1" preload="1" width="348"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-25T15:18:52" comment="https://maps.app.goo.gl/7NptXyi2pPL2H8os9" copyright="" customnodeid="" datetime="" description="rua Senador José Henrique - nº 80 – Ilha do leite, Recife PE&#xa;Area/Lote: 889,97 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="Amostra1" title="A1_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.80" author="" capturedatetime="2026-06-16T13:30:00" comment="https://maps.app.goo.gl/7NptXyi2pPL2H8os9" copyright="" customnodeid="" datetime="16/06/2026 13:30" description="rua Senador José Henrique - nº 80 – Ilha do leite, Recife PE&#xa;Area/Lote: 889,97 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06533333" longitude="-34.89447222" nodeid="node3" source="" tags="Amostra1" title="A1_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="-151.371" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="79.70" author="" capturedatetime="2026-06-17T09:10:56" comment="https://maps.app.goo.gl/YAqegjj7cFsUQqM79" copyright="" customnodeid="" datetime="17/06/2026 09:10" description="Rua Benfica - nº 1059/ 1066/1087/1075/1061 – Madalena, Recife PE&#xa;Area/Lote: 1431,75 e 1958,65 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05733550" longitude="-34.90838283" nodeid="node4" source="" tags="Amostra2e3" title="A2e3_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="3.5497" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input cylinder="1" flat="1" height="894" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1482">
+      <level height="894" predecode="0" preload="0" width="1482"/>
+      <level height="447" predecode="0" preload="0" width="741"/>
+      <level height="223" predecode="1" preload="1" width="370"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-25T16:39:16" comment="https://maps.app.goo.gl/YAqegjj7cFsUQqM79" copyright="" customnodeid="" datetime="" description="Rua Benfica - nº 1059/ 1066/1087/1075/1061 – Madalena, Recife PE&#xa;Area/Lote: 1431,75 e 1958,65 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node5" source="" tags="Amostra2e3" title="A2e3_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="-3.80" author="" capturedatetime="2026-06-16T14:12:46" comment="https://maps.app.goo.gl/YAqegjj7cFsUQqM79" copyright="" customnodeid="" datetime="16/06/2026 14:12" description="Rua Benfica - nº 1059/ 1066/1087/1075/1061 – Madalena, Recife PE&#xa;Area/Lote: 1431,75 e 1958,65 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05805556" longitude="-34.90888889" nodeid="node6" source="" tags="Amostra2e3" title="A2e3_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.245" pan="4.95048" projection="4" tilt="-5.89676"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="101.08" author="" capturedatetime="2026-06-16T14:54:00" comment="https://maps.app.goo.gl/JhR3PdkQgdL5SijL7" copyright="" customnodeid="" datetime="16/06/2026 14:54" description="AV. Paissandu rua do Paissandu 645 – Paissandu, Recife PE&#xa;Area/Lote: 3200 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06262603" longitude="-34.89945186" nodeid="node7" source="" tags="Amostra4" title="A4_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.245" pan="3.30821" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input cylinder="1" flat="1" height="892" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1483">
+      <level height="892" predecode="0" preload="0" width="1483"/>
+      <level height="446" predecode="0" preload="0" width="741"/>
+      <level height="223" predecode="1" preload="1" width="370"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-25T16:54:22" comment="https://maps.app.goo.gl/JhR3PdkQgdL5SijL7" copyright="" customnodeid="" datetime="" description="AV. Paissandu rua do Paissandu 645 – Paissandu, Recife PE&#xa;Area/Lote: 3200 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node8" source="" tags="Amostra4" title="A4_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="7.70" author="" capturedatetime="2026-06-16T14:46:23" comment="https://maps.app.goo.gl/JhR3PdkQgdL5SijL7" copyright="" customnodeid="" datetime="16/06/2026 14:46" description="AV. Paissandu rua do Paissandu 645 – Paissandu, Recife PE&#xa;Area/Lote: 3200 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06266667" longitude="-34.89902778" nodeid="node9" source="" tags="Amostra4" title="A4_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.245" pan="36.1489" projection="4" tilt="-0.0318458"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="112.40" author="" capturedatetime="2026-06-16T15:21:23" comment="" copyright="" customnodeid="" datetime="16/06/2026 15:21" description="Rua Gen. Joaquim Inácio - Nº 86/100 – Boa vista, Recife PE&#xa;Area/Lote: 714,00 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06411692" longitude="-34.89233542" nodeid="node10" source="" tags="Amostra5" title="A5_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="116.326" pan="2.36699" projection="4" tilt="-52.8259"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input cylinder="1" flat="1" height="879" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1405">
+      <level height="879" predecode="0" preload="0" width="1405"/>
+      <level height="439" predecode="0" preload="0" width="702"/>
+      <level height="219" predecode="1" preload="1" width="351"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-25T17:22:54" comment="https://maps.app.goo.gl/MLR6YsvcKiFe3WcT7" copyright="" customnodeid="" datetime="" description="Rua Gen. Joaquim Inácio - Nº 86/100 – Boa vista, Recife PE&#xa;Area/Lote: 714,00 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node11" source="" tags="Amostra5" title="A5_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="2.60" author="" capturedatetime="2026-06-16T15:12:22" comment="https://maps.app.goo.gl/MLR6YsvcKiFe3WcT7" copyright="" customnodeid="" datetime="16/06/2026 15:12" description="Rua Gen. Joaquim Inácio - Nº 86/100 – Boa vista, Recife PE&#xa;Area/Lote: 714,00 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06341667" longitude="-34.89219444" nodeid="node12" source="" tags="Amostra5" title="A5_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="116.326" pan="-18.2261" projection="4" tilt="-3.01198"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="103.31" author="" capturedatetime="2026-06-16T15:51:06" comment="https://maps.app.goo.gl/zCSwT2voJuFZrASk8" copyright="" customnodeid="" datetime="16/06/2026 15:51" description="Av. João de barros - Nº 931 – Santo Amaro, Recife PE&#xa;Area/Lote: 565,63m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04636325" longitude="-34.88953189" nodeid="node13" source="" tags="Amostra6" title="A6_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="116.326" pan="7.42438" projection="4" tilt="-61.5051"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input cylinder="1" flat="1" height="894" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1409">
+      <level height="894" predecode="0" preload="0" width="1409"/>
+      <level height="447" predecode="0" preload="0" width="704"/>
+      <level height="223" predecode="1" preload="1" width="352"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T09:25:06" comment="https://maps.app.goo.gl/zCSwT2voJuFZrASk8" copyright="" customnodeid="" datetime="" description="Av. João de barros - Nº 931 – Santo Amaro, Recife PE&#xa;Area/Lote: 565,63m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node14" source="" tags="Amostra6" title="A6_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="10.70" author="" capturedatetime="2026-06-16T15:45:11" comment="https://maps.app.goo.gl/zCSwT2voJuFZrASk8" copyright="" customnodeid="" datetime="16/06/2026 15:45" description="Av. João de barros - Nº 931 – Santo Amaro, Recife PE&#xa;Area/Lote: 565,63m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04636111" longitude="-34.88988889" nodeid="node15" source="" tags="Amostra6" title="A6_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="107.536" pan="174.555" projection="4" tilt="7.81883"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="121.50" author="" capturedatetime="2026-06-16T16:35:26" comment="https://maps.app.goo.gl/vwaEPBWwYutr4Bo97" copyright="" customnodeid="" datetime="16/06/2026 16:35" description="Rua Dona Olegarinha 56 – Casa Forte, Recife PE&#xa;Area/Lote: 2253,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03799211" longitude="-34.91798547" nodeid="node16" source="" tags="Amostra7" title="A7_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="136.119" pan="-1.43315" projection="4" tilt="-58.2044"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input cylinder="1" flat="1" height="899" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1414">
+      <level height="899" predecode="0" preload="0" width="1414"/>
+      <level height="449" predecode="0" preload="0" width="707"/>
+      <level height="224" predecode="1" preload="1" width="353"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T10:00:44" comment="https://maps.app.goo.gl/vwaEPBWwYutr4Bo97" copyright="" customnodeid="" datetime="" description="Rua Dona Olegarinha 56 – Casa Forte, Recife PE&#xa;Area/Lote: 2253,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node17" source="" tags="Amostra7" title="A7_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="7.70" author="" capturedatetime="2026-06-16T16:28:25" comment="https://maps.app.goo.gl/vwaEPBWwYutr4Bo97" copyright="" customnodeid="" datetime="16/06/2026 16:28" description="Rua Dona Olegarinha 56 – Casa Forte, Recife PE&#xa;Area/Lote: 2253,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03883333" longitude="-34.91825000" nodeid="node18" source="" tags="Amostra7" title="A7_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="136.119" pan="-7.14892" projection="4" tilt="1.62373"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="71.47" author="" capturedatetime="2026-06-17T09:50:15" comment="https://maps.app.goo.gl/2zabnqJWBvqGi1ik8" copyright="" customnodeid="" datetime="17/06/2026 09:50" description="Rua José Alencar - Nº 367 - Lote 2-a – Boa Vista, Recife PE&#xa;Area/Lote: 2465,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06168631" longitude="-34.88969447" nodeid="node19" source="" tags="Amostra8" title="A8_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="136.119" pan="-4.54249" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input cylinder="1" flat="1" height="891" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1412">
+      <level height="891" predecode="0" preload="0" width="1412"/>
+      <level height="445" predecode="0" preload="0" width="706"/>
+      <level height="222" predecode="1" preload="1" width="353"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T10:48:00" comment="https://maps.app.goo.gl/2zabnqJWBvqGi1ik8" copyright="" customnodeid="" datetime="" description="Rua José Alencar - Nº 367 - Lote 2-a – Boa Vista, Recife PE&#xa;Area/Lote: 2465,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node20" source="" tags="Amostra8" title="A8_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="5.00" author="" capturedatetime="2026-06-17T09:42:32" comment="https://maps.app.goo.gl/2zabnqJWBvqGi1ik8" copyright="" customnodeid="" datetime="17/06/2026 09:42" description="Rua José Alencar - Nº 367 - Lote 2-a – Boa Vista, Recife PE&#xa;Area/Lote: 2465,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06188889" longitude="-34.88922222" nodeid="node21" source="" tags="Amostra8" title="A8_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="136.119" pan="-47.0308" projection="4" tilt="4.6323"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="91.25" author="" capturedatetime="2026-06-17T10:17:25" comment="https://maps.app.goo.gl/g5LJScp6CL9kFtxMA" copyright="" customnodeid="" datetime="17/06/2026 10:17" description="AV. Gov. Agamenon Magalhães – Boa Vista, Recife PE&#xa;Area/Lote: 5783,75m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04808514" longitude="-34.89286928" nodeid="node22" source="" tags="Amostra9" title="A9_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="136.119" pan="-13.5704" projection="4" tilt="-20.9114"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input cylinder="1" flat="1" height="894" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1409">
+      <level height="894" predecode="0" preload="0" width="1409"/>
+      <level height="447" predecode="0" preload="0" width="704"/>
+      <level height="223" predecode="1" preload="1" width="352"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T11:04:00" comment="https://maps.app.goo.gl/g5LJScp6CL9kFtxMA" copyright="" customnodeid="" datetime="" description="AV. Gov. Agamenon Magalhães – Boa Vista, Recife PE&#xa;Area/Lote: 5783,75m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node23" source="" tags="Amostra9" title="A9_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="-1.30" author="" capturedatetime="2026-06-17T10:09:12" comment="https://maps.app.goo.gl/g5LJScp6CL9kFtxMA" copyright="" customnodeid="" datetime="17/06/2026 10:09" description="AV. Gov. Agamenon Magalhães – Boa Vista, Recife PE&#xa;Area/Lote: 5783,75m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04852778" longitude="-34.89236111" nodeid="node24" source="" tags="Amostra9" title="A9_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.245" pan="134.94" projection="4" tilt="-5.97499"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="93.78" author="" capturedatetime="2026-06-17T10:41:32" comment="https://maps.app.goo.gl/283Njg6nUVJ9QRdt5" copyright="" customnodeid="" datetime="17/06/2026 10:41" description="Praça Oswaldo Cruz - Nº 446 – Soldado, Recife PE&#xa;Area/Lote: 1296,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05630036" longitude="-34.89096664" nodeid="node25" source="" tags="Amostra10" title="A10_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="91.8995" pan="4.26772" projection="4" tilt="-40.1153"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input cylinder="1" flat="1" height="895" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1407">
+      <level height="895" predecode="0" preload="0" width="1407"/>
+      <level height="447" predecode="0" preload="0" width="703"/>
+      <level height="223" predecode="1" preload="1" width="351"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T13:05:54" comment="https://maps.app.goo.gl/283Njg6nUVJ9QRdt5" copyright="" customnodeid="" datetime="" description="Praça Oswaldo Cruz - Nº 446 – Soldado, Recife PE&#xa;Area/Lote: 1296,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node26" source="" tags="Amostra10" title="A10_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="3.90" author="" capturedatetime="2026-06-17T10:33:12" comment="https://maps.app.goo.gl/283Njg6nUVJ9QRdt5" copyright="" customnodeid="" datetime="17/06/2026 10:33" description="Praça Oswaldo Cruz - Nº 446 – Soldado, Recife PE&#xa;Area/Lote: 1296,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05547222" longitude="-34.89169444" nodeid="node27" source="" tags="Amostra10" title="A10_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.245" pan="7.60037" projection="4" tilt="-6.17001"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="96.72" author="" capturedatetime="2026-06-17T11:06:22" comment="https://maps.app.goo.gl/6KMvmZJdKaP5Ph2f9" copyright="" customnodeid="" datetime="17/06/2026 11:06" description="Rua Marechal Deodoro - Nº 235 – Encruzilhada, Recife PE&#xa;Area/Lote: 1091,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03879108" longitude="-34.88555072" nodeid="node28" source="" tags="Amostra11" title="A11 Aereo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="99.411" pan="-2.2962" projection="4" tilt="-39.0515"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input cylinder="1" flat="1" height="896" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1406">
+      <level height="896" predecode="0" preload="0" width="1406"/>
+      <level height="448" predecode="0" preload="0" width="703"/>
+      <level height="224" predecode="1" preload="1" width="351"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T14:11:14" comment="https://maps.app.goo.gl/6KMvmZJdKaP5Ph2f9" copyright="" customnodeid="" datetime="" description="Rua Marechal Deodoro - Nº 235 – Encruzilhada, Recife PE&#xa;Area/Lote: 1091,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node29" source="" tags="Amostra11" title="A11_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="2.20" author="" capturedatetime="2026-06-17T10:59:56" comment="https://maps.app.goo.gl/6KMvmZJdKaP5Ph2f9" copyright="" customnodeid="" datetime="17/06/2026 10:59" description="Rua Marechal Deodoro - Nº 235 – Encruzilhada, Recife PE&#xa;Area/Lote: 1091,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03822222" longitude="-34.88586111" nodeid="node30" source="" tags="Amostra11" title="A11_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.245" pan="123.846" projection="4" tilt="-1.00656"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="100.42" author="" capturedatetime="2026-06-17T11:31:44" comment="https://maps.app.goo.gl/yAyWgyh9sUVj5JPc8" copyright="" customnodeid="" datetime="17/06/2026 11:31" description="Rua Prof. Costa Pinto - Nº 115 – Encruzilhada, Recife PE&#xa;Area/Lote: 1600,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03102800" longitude="-34.89185172" nodeid="node31" source="" tags="Amostra12" title="A12_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="99.411" pan="-0.315751" projection="4" tilt="-64.2592"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input cylinder="1" flat="1" height="893" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1409">
+      <level height="893" predecode="0" preload="0" width="1409"/>
+      <level height="446" predecode="0" preload="0" width="704"/>
+      <level height="223" predecode="1" preload="1" width="352"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T14:21:12" comment="https://maps.app.goo.gl/yAyWgyh9sUVj5JPc8" copyright="" customnodeid="" datetime="" description="Rua Prof. Costa Pinto - Nº 115 – Encruzilhada, Recife PE&#xa;Area/Lote: 1600,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node32" source="" tags="Amostra12" title="A12_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="6.20" author="" capturedatetime="2026-06-17T11:20:42" comment="https://maps.app.goo.gl/yAyWgyh9sUVj5JPc8" copyright="" customnodeid="" datetime="17/06/2026 11:20" description="Rua Prof. Costa Pinto - Nº 115 – Encruzilhada, Recife PE&#xa;Area/Lote: 1600,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03111111" longitude="-34.89141667" nodeid="node33" source="" tags="Amostra12" title="A12_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="136.119" pan="-34.2098" projection="4" tilt="10.354"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="103.46" author="" capturedatetime="2026-06-17T13:25:59" comment="https://maps.app.goo.gl/Q8BiMjRh9B6HidAf9" copyright="" customnodeid="" datetime="17/06/2026 13:25" description="Rua Honório Correia - Nº 97/87 – Cordeiro, Recife PE&#xa;Area/Lote: 960,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05203825" longitude="-34.92014225" nodeid="node34" source="" tags="Amostra13" title="A13_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.766" pan="1.21701" projection="4" tilt="-44.8795"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input cylinder="1" flat="1" height="866" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1403">
+      <level height="866" predecode="0" preload="0" width="1403"/>
+      <level height="433" predecode="0" preload="0" width="701"/>
+      <level height="216" predecode="1" preload="1" width="350"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T14:35:14" comment="https://maps.app.goo.gl/Q8BiMjRh9B6HidAf9" copyright="" customnodeid="" datetime="" description="Rua Honório Correia - Nº 97/87 – Cordeiro, Recife PE&#xa;Area/Lote: 960,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node36" source="" tags="Amostra13" title="A13_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="9.70" author="" capturedatetime="2026-06-17T13:16:57" comment="https://maps.app.goo.gl/Q8BiMjRh9B6HidAf9" copyright="" customnodeid="" datetime="17/06/2026 13:16" description="Rua Honório Correia - Nº 97/87 – Cordeiro, Recife PE&#xa;Area/Lote: 960,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05286111" longitude="-34.92036111" nodeid="node35" source="" tags="Amostra13" title="A13_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.766" pan="-124.006" projection="4" tilt="-5.83507"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="105.50" author="" capturedatetime="2026-06-17T13:59:19" comment="https://maps.app.goo.gl/iKT7Af6SqJ8foj4aA" copyright="" customnodeid="" datetime="17/06/2026 13:59" description="Praça do Derby 190 – Derby, Recife PE&#xa;Area/Lote: 1035,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05674575" longitude="-34.89991144" nodeid="node37" source="" tags="Amostra14" title="A14_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100.147" pan="0.952982" projection="4" tilt="-44.347"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input cylinder="1" flat="1" height="894" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1407">
+      <level height="894" predecode="0" preload="0" width="1407"/>
+      <level height="447" predecode="0" preload="0" width="703"/>
+      <level height="223" predecode="1" preload="1" width="351"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T14:54:44" comment="https://maps.app.goo.gl/iKT7Af6SqJ8foj4aA" copyright="" customnodeid="" datetime="" description="Praça do Derby 190 – Derby, Recife PE&#xa;Area/Lote: 1035,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node38" source="" tags="Amostra14" title="A14_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="2.30" author="" capturedatetime="2026-06-17T13:51:49" comment="https://maps.app.goo.gl/iKT7Af6SqJ8foj4aA" copyright="" customnodeid="" datetime="17/06/2026 13:51" description="Praça do Derby 190 – Derby, Recife PE&#xa;Area/Lote: 1035,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05766667" longitude="-34.89994444" nodeid="node39" source="" tags="Amostra14" title="A14_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.245" pan="-125.127" projection="4" tilt="11.7412"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="89.21" author="" capturedatetime="2026-06-17T14:49:22" comment="https://maps.app.goo.gl/DVoLNLGGboFjyZDEA" copyright="" customnodeid="" datetime="17/06/2026 14:49" description="Av. Dezessete de agosto 1234 – Casa Forte, Recife PE&#xa;Area/Lote: 1382,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03731433" longitude="-34.91992047" nodeid="node40" source="" tags="Amostra15" title="A15_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="99.411" pan="0.112365" projection="4" tilt="-54.7689"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node41">
+    <input cylinder="1" flat="1" height="894" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1410">
+      <level height="894" predecode="0" preload="0" width="1410"/>
+      <level height="447" predecode="0" preload="0" width="705"/>
+      <level height="223" predecode="1" preload="1" width="352"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T15:13:20" comment="https://maps.app.goo.gl/DVoLNLGGboFjyZDEA" copyright="" customnodeid="" datetime="" description="Av. Dezessete de agosto 1234 – Casa Forte, Recife PE&#xa;Area/Lote: 1382,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node41" source="" tags="Amostra15" title="A15_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node42">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="-0.30" author="" capturedatetime="2026-06-17T14:41:53" comment="https://maps.app.goo.gl/DVoLNLGGboFjyZDEA" copyright="" customnodeid="" datetime="17/06/2026 14:41" description="Av. Dezessete de agosto 1234 – Casa Forte, Recife PE&#xa;Area/Lote: 1382,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03697222" longitude="-34.91955556" nodeid="node42" source="" tags="Amostra15" title="A15_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.245" pan="23.4546" projection="4" tilt="-1.93955"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node43">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="122.67" author="" capturedatetime="2026-06-17T15:23:53" comment="https://maps.app.goo.gl/p67LghzbKam51H757" copyright="" customnodeid="" datetime="17/06/2026 15:23" description="Rua salvador de Sá - nº 251/271 – Rosarinho, Recife PE&#xa;Area/Lote: 909,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03119753" longitude="-34.89566731" nodeid="node43" source="" tags="Amostra16" title="A16_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="99.411" pan="-4.99848" projection="4" tilt="-43.5405"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node44">
+    <input cylinder="1" flat="1" height="895" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1403">
+      <level height="895" predecode="0" preload="0" width="1403"/>
+      <level height="447" predecode="0" preload="0" width="701"/>
+      <level height="223" predecode="1" preload="1" width="350"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T15:27:30" comment="https://maps.app.goo.gl/p67LghzbKam51H757" copyright="" customnodeid="" datetime="" description="Rua salvador de Sá - nº 251/271 – Rosarinho, Recife PE&#xa;Area/Lote: 909,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node44" source="" tags="Amostra16" title="A16_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node45">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="1.30" author="" capturedatetime="2026-06-17T15:14:33" comment="https://maps.app.goo.gl/p67LghzbKam51H757" copyright="" customnodeid="" datetime="17/06/2026 15:14" description="Rua salvador de Sá - nº 251/271 – Rosarinho, Recife PE&#xa;Area/Lote: 909,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03136111" longitude="-34.89450000" nodeid="node45" source="" tags="Amostra16" title="A16_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="138" pan="-6.97096" projection="4" tilt="14.3964"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node46">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="102.34" author="" capturedatetime="2026-06-17T15:45:44" comment="https://maps.app.goo.gl/sAD5epP5GfZ2VYxH9" copyright="" customnodeid="" datetime="17/06/2026 15:45" description="Rua Buenos Aires 201 – Espinheiro, Recife PE&#xa;Area/Lote: 462,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04752692" longitude="-34.89432036" nodeid="node46" source="" tags="Amostra17" title="A17_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="93.169" pan="-0.681316" projection="4" tilt="-47.5167"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node47">
+    <input cylinder="1" flat="1" height="891" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1624">
+      <level height="891" predecode="0" preload="0" width="1624"/>
+      <level height="445" predecode="0" preload="0" width="812"/>
+      <level height="222" predecode="1" preload="1" width="406"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T15:46:34" comment="https://maps.app.goo.gl/sAD5epP5GfZ2VYxH9" copyright="" customnodeid="" datetime="" description="Rua Buenos Aires 201 – Espinheiro, Recife PE&#xa;Area/Lote: 462,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node47" source="" tags="Amostra17" title="A17_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node48">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="2.40" author="" capturedatetime="2026-06-17T15:39:13" comment="https://maps.app.goo.gl/sAD5epP5GfZ2VYxH9" copyright="" customnodeid="" datetime="17/06/2026 15:39" description="Rua Buenos Aires 201 – Espinheiro, Recife PE&#xa;Area/Lote: 462,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04797222" longitude="-34.89438889" nodeid="node48" source="" tags="Amostra17" title="A17_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="119.136" pan="-11.4718" projection="4" tilt="-0.239189"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node49">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="114.46" author="" capturedatetime="2026-06-17T16:13:06" comment="https://maps.app.goo.gl/PSTQmnQUUacdidyJA" copyright="" customnodeid="" datetime="17/06/2026 16:13" description="Rua prof. Otávio de Freitas - nº 334 – Encruzilhada, Recife PE&#xa;Area/Lote: 300,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03294086" longitude="-34.89334208" nodeid="node49" source="" tags="Amostra18" title="A18_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="68.5557" pan="-1.05004" projection="4" tilt="-53.5194"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node50">
+    <input cylinder="1" flat="1" height="892" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1623">
+      <level height="892" predecode="0" preload="0" width="1623"/>
+      <level height="446" predecode="0" preload="0" width="811"/>
+      <level height="223" predecode="1" preload="1" width="405"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T15:54:52" comment="https://maps.app.goo.gl/PSTQmnQUUacdidyJA" copyright="" customnodeid="" datetime="" description="Rua prof. Otávio de Freitas - nº 334 – Encruzilhada, Recife PE&#xa;Area/Lote: 300,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node50" source="" tags="Amostra18" title="A18_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node51">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="2.10" author="" capturedatetime="2026-06-17T16:06:06" comment="https://maps.app.goo.gl/PSTQmnQUUacdidyJA" copyright="" customnodeid="" datetime="17/06/2026 16:06" description="Rua prof. Otávio de Freitas - nº 334 – Encruzilhada, Recife PE&#xa;Area/Lote: 300,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03361111" longitude="-34.89294444" nodeid="node51" source="" tags="Amostra18" title="A18_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.245" pan="-35.1974" projection="4" tilt="5.64199"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node52">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="123.79" author="" capturedatetime="2026-06-17T16:40:16" comment="https://maps.app.goo.gl/G694Jnsi3gkBiAaY8" copyright="" customnodeid="" datetime="17/06/2026 16:40" description="Rua José de Holanda - nº 914 – Torre, Recife PE&#xa;Area/Lote: 1118,87m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04560142" longitude="-34.91326481" nodeid="node52" source="" tags="Amostra19" title="A19_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="84.9555" pan="0.257215" projection="4" tilt="-48.6464"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node53">
+    <input cylinder="1" flat="1" height="893" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1622">
+      <level height="893" predecode="0" preload="0" width="1622"/>
+      <level height="446" predecode="0" preload="0" width="811"/>
+      <level height="223" predecode="1" preload="1" width="405"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T16:07:58" comment="https://maps.app.goo.gl/G694Jnsi3gkBiAaY8" copyright="" customnodeid="" datetime="" description="Rua José de Holanda - nº 914 – Torre, Recife PE&#xa;Area/Lote: 1118,87m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node53" source="" tags="Amostra19" title="A19_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node54">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="7.30" author="" capturedatetime="2026-06-17T16:33:00" comment="https://maps.app.goo.gl/G694Jnsi3gkBiAaY8" copyright="" customnodeid="" datetime="17/06/2026 16:33" description="Rua José de Holanda - nº 914 – Torre, Recife PE&#xa;Area/Lote: 1118,87m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04541667" longitude="-34.91261111" nodeid="node54" source="" tags="Amostra19" title="A19_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="125.834" pan="-83.7682" projection="4" tilt="6.03243"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node55">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node55/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="117.71" author="" capturedatetime="2026-06-17T17:11:02" comment="https://maps.app.goo.gl/biYNrZ8KqF7wGh9AA" copyright="" customnodeid="" datetime="17/06/2026 17:11" description="Rua dona Rita de Souza - nº 229 – Parnamirim, Recife PE&#xa;Area/Lote: 517,50m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03392017" longitude="-34.91668236" nodeid="node55" source="" tags="Amostra20" title="A20_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="78.2711" pan="2.96323" projection="4" tilt="-51.7136"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node56">
+    <input cylinder="1" flat="1" height="896" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1622">
+      <level height="896" predecode="0" preload="0" width="1622"/>
+      <level height="448" predecode="0" preload="0" width="811"/>
+      <level height="224" predecode="1" preload="1" width="405"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-26T16:43:28" comment="https://maps.app.goo.gl/biYNrZ8KqF7wGh9AA" copyright="" customnodeid="" datetime="" description="Rua dona Rita de Souza - nº 229 – Parnamirim, Recife PE&#xa;Area/Lote: 517,50m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node56" source="" tags="Amostra20" title="A20_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node57">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="7.80" author="" capturedatetime="2026-06-17T17:04:25" comment="https://maps.app.goo.gl/biYNrZ8KqF7wGh9AA" copyright="" customnodeid="" datetime="17/06/2026 17:04" description="Rua dona Rita de Souza - nº 229 – Parnamirim, Recife PE&#xa;Area/Lote: 517,50m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03344444" longitude="-34.91616667" nodeid="node57" source="" tags="Amostra20" title="A20_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="137.128" pan="155.297" projection="4" tilt="6.95026"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node58">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="103.43" author="" capturedatetime="2026-06-18T08:17:00" comment="https://maps.app.goo.gl/mjCGPvgBmLqkGGHD7" copyright="" customnodeid="" datetime="18/06/2026 08:17" description="Rua eng. Clóvis de Castro - Nº 91 – 100 – Parnamirim, Recife PE&#xa;Area/Lote: 360,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03188428" longitude="-34.91062233" nodeid="node58" source="" tags="Amostra21" title="A21_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="87.759" pan="0.995289" projection="4" tilt="-50.8566"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node59">
+    <input cylinder="1" flat="1" height="882" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node59/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1613">
+      <level height="882" predecode="0" preload="0" width="1613"/>
+      <level height="441" predecode="0" preload="0" width="806"/>
+      <level height="220" predecode="1" preload="1" width="403"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-29T11:43:52" comment="https://maps.app.goo.gl/mjCGPvgBmLqkGGHD7" copyright="" customnodeid="" datetime="" description="Rua eng. Clóvis de Castro - Nº 91 – 100 – Parnamirim, Recife PE&#xa;Area/Lote: 360,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node59" source="" tags="Amostra21" title="A21_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node60">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node60/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="21.80" author="" capturedatetime="2026-06-18T08:08:09" comment="https://maps.app.goo.gl/mjCGPvgBmLqkGGHD7" copyright="" customnodeid="" datetime="18/06/2026 08:08" description="Rua eng. Clóvis de Castro - Nº 91 – 100 – Parnamirim, Recife PE&#xa;Area/Lote: 360,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.03147222" longitude="-34.91008333" nodeid="node60" source="" tags="Amostra21" title="A21_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="99.411" pan="44.1063" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node61">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node61/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="91.44" author="" capturedatetime="2026-06-18T08:59:09" comment="https://maps.app.goo.gl/TTXxKLFceDZ6WgAr8" copyright="" customnodeid="" datetime="18/06/2026 08:59" description="Av. Visconde de Suassuna 797 – Santo Amaro, Recife PE&#xa;Area/Lote: 1365,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05141856" longitude="-34.88793969" nodeid="node61" source="" tags="Amostra22" title="A22_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="99.411" pan="-7.99791" projection="4" tilt="-48.3244"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node62">
+    <input cylinder="1" flat="1" height="883" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1623">
+      <level height="883" predecode="0" preload="0" width="1623"/>
+      <level height="441" predecode="0" preload="0" width="811"/>
+      <level height="220" predecode="1" preload="1" width="405"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-29T12:15:06" comment="https://maps.app.goo.gl/TTXxKLFceDZ6WgAr8" copyright="" customnodeid="" datetime="" description="Av. Visconde de Suassuna 797 – Santo Amaro, Recife PE&#xa;Area/Lote: 1365,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node62" source="" tags="Amostra22" title="A22_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node63">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node63/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="5.60" author="" capturedatetime="2026-06-18T08:52:21" comment="https://maps.app.goo.gl/TTXxKLFceDZ6WgAr8" copyright="" customnodeid="" datetime="18/06/2026 08:52" description="Av. Visconde de Suassuna 797 – Santo Amaro, Recife PE&#xa;Area/Lote: 1365,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05097222" longitude="-34.88838889" nodeid="node63" source="" tags="Amostra22" title="A22_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.245" pan="-131.392" projection="4" tilt="-2.81758"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node64">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node64/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="90.93" author="" capturedatetime="2026-06-18T09:17:45" comment="https://maps.app.goo.gl/tCu8ALS1yrX1omri7" copyright="" customnodeid="" datetime="18/06/2026 09:17" description="Rua Afonso Pena Nº 438 – Santo Amaro, Recife PE&#xa;Area/Lote: 1176,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05124894" longitude="-34.88626914" nodeid="node64" source="" tags="Amostra23" title="A23_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.933" pan="-1.69788" projection="4" tilt="-55.7543"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node65">
+    <input cylinder="1" flat="1" height="889" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node65/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1620">
+      <level height="889" predecode="0" preload="0" width="1620"/>
+      <level height="444" predecode="0" preload="0" width="810"/>
+      <level height="222" predecode="1" preload="1" width="405"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-29T12:42:02" comment="https://maps.app.goo.gl/tCu8ALS1yrX1omri7" copyright="" customnodeid="" datetime="" description="Rua Afonso Pena Nº 438 – Santo Amaro, Recife PE&#xa;Area/Lote: 1176,00m².&#xa;Rua Afonso Pena Nº 438 – Santo Amaro, Recife PE&#xa;Area/Lote: 1176,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node65" source="" tags="Amostra23" title="A23_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node66">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node66/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="4.70" author="" capturedatetime="2026-06-18T09:10:24" comment="https://maps.app.goo.gl/tCu8ALS1yrX1omri7" copyright="" customnodeid="" datetime="18/06/2026 09:10" description="Rua Afonso Pena Nº 438 – Santo Amaro, Recife PE&#xa;Area/Lote: 1176,00m².&#xa;Rua Afonso Pena Nº 438 – Santo Amaro, Recife PE&#xa;Area/Lote: 1176,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05194444" longitude="-34.88663889" nodeid="node66" source="" tags="Amostra23" title="A23_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node67">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node67/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="82.00" author="" capturedatetime="2026-06-18T09:36:37" comment="https://maps.app.goo.gl/wFaBcuhCBKEk9J3f7" copyright="" customnodeid="" datetime="18/06/2026 09:36" description="Av. Cruz Cabugá 1063 – Santo Amaro, Recife PE&#xa;Area/Lote: 2300,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04589692" longitude="-34.87509644" nodeid="node67" source="" tags="Amostra24" title="A24_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.188" pan="0.772699" projection="4" tilt="-31.1688"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node68">
+    <input cylinder="1" flat="1" height="886" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node68/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1618">
+      <level height="886" predecode="0" preload="0" width="1618"/>
+      <level height="443" predecode="0" preload="0" width="809"/>
+      <level height="221" predecode="1" preload="1" width="404"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-29T12:50:20" comment="https://maps.app.goo.gl/wFaBcuhCBKEk9J3f7" copyright="" customnodeid="" datetime="" description="Av. Cruz Cabugá 1063 – Santo Amaro, Recife PE&#xa;Area/Lote: 2300,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node68" source="" tags="Amostra24" title="A24_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node69">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node69/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="-1.30" author="" capturedatetime="2026-06-18T09:30:10" comment="https://maps.app.goo.gl/wFaBcuhCBKEk9J3f7" copyright="" customnodeid="" datetime="18/06/2026 09:30" description="Av. Cruz Cabugá 1063 – Santo Amaro, Recife PE&#xa;Area/Lote: 2300,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04569444" longitude="-34.87580556" nodeid="node69" source="" tags="Amostra24" title="A24_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.188" pan="-29.298" projection="4" tilt="-4.29165"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node71">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node71/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="128.69" author="" capturedatetime="2026-06-18T10:24:48" comment="https://maps.app.goo.gl/bMiM2rtKqTmVAHtv8" copyright="" customnodeid="" datetime="18/06/2026 10:24" description="Av. Sen. Sérgio Guerra 129 – Boa Viagem, Recife PE&#xa;Area/Lote: 8174,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.15592611" longitude="-34.91044664" nodeid="node71" source="" tags="Amostra25" title="A25_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node72">
+    <input cylinder="1" flat="1" height="889" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node72/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1619">
+      <level height="889" predecode="0" preload="0" width="1619"/>
+      <level height="444" predecode="0" preload="0" width="809"/>
+      <level height="222" predecode="1" preload="1" width="404"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-30T08:29:00" comment="https://maps.app.goo.gl/bMiM2rtKqTmVAHtv8" copyright="" customnodeid="" datetime="" description="Av. Sen. Sérgio Guerra 129 – Boa Viagem, Recife PE&#xa;Area/Lote: 8174,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node72" source="" tags="Amostra25" title="A25_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node70">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node70/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="1.70" author="" capturedatetime="2026-06-18T10:17:50" comment="https://maps.app.goo.gl/bMiM2rtKqTmVAHtv8" copyright="" customnodeid="" datetime="18/06/2026 10:17" description="Av. Sen. Sérgio Guerra 129 – Boa Viagem, Recife PE&#xa;Area/Lote: 8174,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.15494444" longitude="-34.90930556" nodeid="node70" source="" tags="Amostra25" title="A_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.188" pan="-149.361" projection="4" tilt="4.37343"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node73">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node73/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="101.86" author="" capturedatetime="2026-06-18T11:06:14" comment="https://maps.app.goo.gl/hVjE2FvtDBYY3i7q9" copyright="" customnodeid="" datetime="18/06/2026 11:06" description="Estrada dos Remédios 1451 – Afogados, Recife PE&#xa;Area/Lote: 26000,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06733728" longitude="-34.90908833" nodeid="node73" source="" tags="Amostra26" title="A26_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="125.834" pan="-1.72268" projection="4" tilt="-35.9025"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node74">
+    <input cylinder="1" flat="1" height="888" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node74/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1623">
+      <level height="888" predecode="0" preload="0" width="1623"/>
+      <level height="444" predecode="0" preload="0" width="811"/>
+      <level height="222" predecode="1" preload="1" width="405"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-30T09:02:58" comment="https://maps.app.goo.gl/hVjE2FvtDBYY3i7q9" copyright="" customnodeid="" datetime="" description="Estrada dos Remédios 1451 – Afogados, Recife PE&#xa;Area/Lote: 26000,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node74" source="" tags="Amostra26" title="A26_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node75">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node75/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="11.70" author="" capturedatetime="2026-06-18T11:00:28" comment="https://maps.app.goo.gl/hVjE2FvtDBYY3i7q9" copyright="" customnodeid="" datetime="18/06/2026 11:00" description="Estrada dos Remédios 1451 – Afogados, Recife PE&#xa;Area/Lote: 26000,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06705556" longitude="-34.90830556" nodeid="node75" source="" tags="Amostra26" title="A26_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="136.119" pan="176.969" projection="4" tilt="0.217946"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node76">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node76/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="162.97" author="" capturedatetime="2026-06-18T11:32:29" comment="https://maps.app.goo.gl/3vUbY39RWcjRVrnr9" copyright="" customnodeid="" datetime="18/06/2026 11:32" description="Rua Barão Homem de Melo 38 – Imbiribeira, Recife PE&#xa;Area/Lote: 12495,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.09691164" longitude="-34.91599639" nodeid="node76" source="" tags="Amostra27" title="A27_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="99.411" pan="0.00329882" projection="4" tilt="-56.1944"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node77">
+    <input cylinder="1" flat="1" height="882" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node77/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1624">
+      <level height="882" predecode="0" preload="0" width="1624"/>
+      <level height="441" predecode="0" preload="0" width="812"/>
+      <level height="220" predecode="1" preload="1" width="406"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-30T09:29:50" comment="https://maps.app.goo.gl/3vUbY39RWcjRVrnr9" copyright="" customnodeid="" datetime="" description="Rua Barão Homem de Melo 38 – Imbiribeira, Recife PE&#xa;Area/Lote: 12495,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node77" source="" tags="Amostra27" title="A27_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node78">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node78/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-18T11:24:42" comment="https://maps.app.goo.gl/3vUbY39RWcjRVrnr9" copyright="" customnodeid="" datetime="18/06/2026 11:24" description="Rua Barão Homem de Melo 38 – Imbiribeira, Recife PE&#xa;Area/Lote: 12495,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.09783333" longitude="-34.91591667" nodeid="node78" source="" tags="Amostra27" title="A27_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="127.573" pan="38.83" projection="4" tilt="8.62999"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node79">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node79/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="107.86" author="" capturedatetime="2026-06-18T12:30:20" comment="https://maps.app.goo.gl/FbuGzEnQ3RgsfdHG6" copyright="" customnodeid="" datetime="18/06/2026 12:30" description="Rua João Cardoso Aires 835 – Boa Viagem, Recife PE&#xa;Area/Lote: 6500,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.14087064" longitude="-34.91348144" nodeid="node79" source="" tags="Amostra28" title="A28_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100.784" pan="0.101913" projection="4" tilt="-41.8777"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node80">
+    <input cylinder="1" flat="1" height="883" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node80/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1620">
+      <level height="883" predecode="0" preload="0" width="1620"/>
+      <level height="441" predecode="0" preload="0" width="810"/>
+      <level height="220" predecode="1" preload="1" width="405"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-30T10:05:12" comment="https://maps.app.goo.gl/FbuGzEnQ3RgsfdHG6" copyright="" customnodeid="" datetime="" description="Rua João Cardoso Aires 835 – Boa Viagem, Recife PE&#xa;Area/Lote: 6500,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node80" source="" tags="Amostra28" title="A28_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node81">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node81/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="8.60" author="" capturedatetime="2026-06-18T12:22:13" comment="https://maps.app.goo.gl/FbuGzEnQ3RgsfdHG6" copyright="" customnodeid="" datetime="18/06/2026 12:22" description="Rua João Cardoso Aires 835 – Boa Viagem, Recife PE&#xa;Area/Lote: 6500,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.14061111" longitude="-34.91241667" nodeid="node81" source="" tags="Amostra28" title="A28_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="125.834" pan="-167.726" projection="4" tilt="-3.95703"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node82">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node82/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="97.71" author="" capturedatetime="2026-06-18T13:21:25" comment="https://maps.app.goo.gl/Ajbh7Rbn7GGk33827" copyright="" customnodeid="" datetime="18/06/2026 13:21" description="Rua das Pernambucanas - nº 100 – Graças, Recife PE&#xa;Area/Lote: 1022,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05098686" longitude="-34.89947358" nodeid="node82" source="" tags="Amostra29" title="A29_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="91.8995" pan="1.00753" projection="4" tilt="-49.2604"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node83">
+    <input cylinder="1" flat="1" height="888" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node83/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1621">
+      <level height="888" predecode="0" preload="0" width="1621"/>
+      <level height="444" predecode="0" preload="0" width="810"/>
+      <level height="222" predecode="1" preload="1" width="405"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-30T10:22:22" comment="https://maps.app.goo.gl/Ajbh7Rbn7GGk33827" copyright="" customnodeid="" datetime="" description="Rua das Pernambucanas - nº 100 – Graças, Recife PE&#xa;Area/Lote: 1022,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node83" source="" tags="Amostra29" title="A29_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node84">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node84/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="5.30" author="" capturedatetime="2026-06-18T13:07:31" comment="https://maps.app.goo.gl/Ajbh7Rbn7GGk33827" copyright="" customnodeid="" datetime="18/06/2026 13:07" description="Rua das Pernambucanas - nº 100 – Graças, Recife PE&#xa;Area/Lote: 1022,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05141667" longitude="-34.89958333" nodeid="node84" source="" tags="Amostra29" title="A29_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="125.834" pan="170.696" projection="4" tilt="6.19176"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node85">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node85/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="108.36" author="" capturedatetime="2026-06-18T14:05:25" comment="https://maps.app.goo.gl/fWYYdZnTg61ayRsB6" copyright="" customnodeid="" datetime="18/06/2026 14:05" description="Rua Joaquim Bandeira 40 – Imbiribeira, Recife PE&#xa;Area/Lote: 2300,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.10979389" longitude="-34.91063836" nodeid="node85" source="" tags="Amostra30" title="A30_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="99.411" pan="1.34593" projection="4" tilt="-45.746"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node86">
+    <input cylinder="1" flat="1" height="890" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node86/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1628">
+      <level height="890" predecode="0" preload="0" width="1628"/>
+      <level height="445" predecode="0" preload="0" width="814"/>
+      <level height="222" predecode="1" preload="1" width="407"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-30T10:40:40" comment="https://maps.app.goo.gl/fWYYdZnTg61ayRsB6" copyright="" customnodeid="" datetime="" description="Rua Joaquim Bandeira 40 – Imbiribeira, Recife PE&#xa;Area/Lote: 2300,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node86" source="" tags="Amostra30" title="A30_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node87">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node87/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="5.50" author="" capturedatetime="2026-06-18T13:57:54" comment="https://maps.app.goo.gl/fWYYdZnTg61ayRsB6" copyright="" customnodeid="" datetime="18/06/2026 13:57" description="Rua Joaquim Bandeira 40 – Imbiribeira, Recife PE&#xa;Area/Lote: 2300,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.11002778" longitude="-34.91125000" nodeid="node87" source="" tags="Amostra30" title="A30_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="108.333" pan="109.641" projection="4" tilt="1.38843"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node88">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node88/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="112.04" author="" capturedatetime="2026-06-18T14:32:02" comment="https://maps.app.goo.gl/42YnzFn3c4BKqqBg8" copyright="" customnodeid="" datetime="18/06/2026 14:32" description="AV. Pinheiros 1110 – Imbiribeira, Recife PE&#xa;Area/Lote: 2860,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.09262772" longitude="-34.91729808" nodeid="node88" source="" tags="Amostra31" title="A31_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="108.333" pan="-3.46464" projection="4" tilt="-50.6199"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node89">
+    <input cylinder="1" flat="1" height="879" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node89/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1615">
+      <level height="879" predecode="0" preload="0" width="1615"/>
+      <level height="439" predecode="0" preload="0" width="807"/>
+      <level height="219" predecode="1" preload="1" width="403"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-30T10:50:06" comment="https://maps.app.goo.gl/42YnzFn3c4BKqqBg8" copyright="" customnodeid="" datetime="" description="AV. Pinheiros 1110 – Imbiribeira, Recife PE&#xa;Area/Lote: 2860,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node89" source="" tags="Amostra31" title="A31_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node90">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node90/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="-1.80" author="" capturedatetime="2026-06-18T14:25:01" comment="https://maps.app.goo.gl/42YnzFn3c4BKqqBg8" copyright="" customnodeid="" datetime="18/06/2026 14:25" description="AV. Pinheiros 1110 – Imbiribeira, Recife PE&#xa;Area/Lote: 2860,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.09252778" longitude="-34.91777778" nodeid="node90" source="" tags="Amostra31" title="A31_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="125.834" pan="-2.62607" projection="4" tilt="-1.18121"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node91">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node91/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="97.71" author="" capturedatetime="2026-06-18T13:22:50" comment="https://maps.app.goo.gl/M8dqesJxQpUKATuq5" copyright="" customnodeid="" datetime="18/06/2026 13:22" description="Rua das Pernambucanas - nº 100 – Graças, Recife PE&#xa;Area/Lote: 3141,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05203806" longitude="-34.89923606" nodeid="node91" source="" tags="Amostra32" title="A32_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="107.536" pan="-2.25007" projection="4" tilt="-47.1749"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node92">
+    <input cylinder="1" flat="1" height="893" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node92/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1625">
+      <level height="893" predecode="0" preload="0" width="1625"/>
+      <level height="446" predecode="0" preload="0" width="812"/>
+      <level height="223" predecode="1" preload="1" width="406"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-30T11:12:22" comment="https://maps.app.goo.gl/M8dqesJxQpUKATuq5" copyright="" customnodeid="" datetime="" description="Rua das Pernambucanas - nº 100 – Graças, Recife PE&#xa;Area/Lote: 3141,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node92" source="" tags="Amostra32" title="A32_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node93">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node93/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="5.60" author="" capturedatetime="2026-06-18T13:12:37" comment="https://maps.app.goo.gl/M8dqesJxQpUKATuq5" copyright="" customnodeid="" datetime="18/06/2026 13:12" description="Rua das Pernambucanas - nº 100 – Graças, Recife PE&#xa;Area/Lote: 3141,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05138889" longitude="-34.89969444" nodeid="node93" source="" tags="Amostra32" title="A32_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="136.119" pan="-87.2345" projection="4" tilt="-3.73032"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node94">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node94/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="109.11" author="" capturedatetime="2026-06-18T15:03:41" comment="https://maps.app.goo.gl/Lv9yAavVSWGy4Ybp8" copyright="" customnodeid="" datetime="18/06/2026 15:03" description="Rua Carlos Gomes 1154 – Bongi, Recife PE&#xa;Area/Lote: 9000,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06576883" longitude="-34.91329592" nodeid="node94" source="" tags="Amostra33" title="A33_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="107.536" pan="-1.74722" projection="4" tilt="-40.2507"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node95">
+    <input cylinder="1" flat="1" height="889" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node95/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1624">
+      <level height="889" predecode="0" preload="0" width="1624"/>
+      <level height="444" predecode="0" preload="0" width="812"/>
+      <level height="222" predecode="1" preload="1" width="406"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-30T11:23:24" comment="https://maps.app.goo.gl/Lv9yAavVSWGy4Ybp8" copyright="" customnodeid="" datetime="" description="Rua Carlos Gomes 1154 – Bongi, Recife PE&#xa;Area/Lote: 9000,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node95" source="" tags="Amostra33" title="A33_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node96">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node96/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="6.10" author="" capturedatetime="2026-06-18T14:56:50" comment="https://maps.app.goo.gl/Lv9yAavVSWGy4Ybp8" copyright="" customnodeid="" datetime="18/06/2026 14:56" description="Rua Carlos Gomes 1154 – Bongi, Recife PE&#xa;Area/Lote: 9000,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.06516667" longitude="-34.91388889" nodeid="node96" source="" tags="Amostra33" title="A33_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="136.119" pan="-158.013" projection="4" tilt="-6.54212"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node97">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node97/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="112.52" author="" capturedatetime="2026-06-18T15:37:28" comment="https://maps.app.goo.gl/mNu4E5jg5RA4vFKW6" copyright="" customnodeid="" datetime="18/06/2026 15:37" description="AV. Militar – Recife, Recife PE&#xa;Area/Lote: 7668,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05210906" longitude="-34.87097719" nodeid="node97" source="" tags="Amostra34" title="A34_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="99.411" pan="2.66183" projection="4" tilt="-44.0299"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node98">
+    <input cylinder="1" flat="1" height="885" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node98/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1623">
+      <level height="885" predecode="0" preload="0" width="1623"/>
+      <level height="442" predecode="0" preload="0" width="811"/>
+      <level height="221" predecode="1" preload="1" width="405"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-30T15:47:36" comment="https://maps.app.goo.gl/mNu4E5jg5RA4vFKW6" copyright="" customnodeid="" datetime="" description="AV. Militar – Recife, Recife PE&#xa;Area/Lote: 7668,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node98" source="" tags="Amostra34" title="A34_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node99">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node99/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="5.10" author="" capturedatetime="2026-06-18T15:29:02" comment="https://maps.app.goo.gl/mNu4E5jg5RA4vFKW6" copyright="" customnodeid="" datetime="18/06/2026 15:29" description="AV. Militar – Recife, Recife PE&#xa;Area/Lote: 7668,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05191667" longitude="-34.87188889" nodeid="node99" source="" tags="Amostra34" title="A34_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="128.149" pan="-68.1242" projection="4" tilt="-0.2039"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node100">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node100/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="88.30" author="" capturedatetime="2026-06-18T15:59:23" comment="https://maps.app.goo.gl/m643b3w1f4kGMzhF8" copyright="" customnodeid="" datetime="18/06/2026 15:59" description="Av. João de Barros 1311, Espinheiro, Recife PE&#xa;Area/Lote: 1100,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04411442" longitude="-34.89090431" nodeid="node100" source="" tags="Amostra35" title="A35_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="93.5902" pan="-5.27134" projection="4" tilt="-44.4372"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node101">
+    <input cylinder="1" flat="1" height="889" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node101/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1626">
+      <level height="889" predecode="0" preload="0" width="1626"/>
+      <level height="444" predecode="0" preload="0" width="813"/>
+      <level height="222" predecode="1" preload="1" width="406"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-30T15:57:56" comment="https://maps.app.goo.gl/m643b3w1f4kGMzhF8" copyright="" customnodeid="" datetime="" description="Av. João de Barros 1311, Espinheiro, Recife PE&#xa;Area/Lote: 1100,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node101" source="" tags="Amostra35" title="A35_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node102">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node102/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="16.40" author="" capturedatetime="2026-06-18T15:50:02" comment="https://maps.app.goo.gl/m643b3w1f4kGMzhF8" copyright="" customnodeid="" datetime="18/06/2026 15:50" description="Av. João de Barros 1311, Espinheiro, Recife PE&#xa;Area/Lote: 1100,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04297222" longitude="-34.89069444" nodeid="node102" source="" tags="Amostra35" title="A35_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="120.006" pan="-45.8743" projection="4" tilt="-0.131066"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node103">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node103/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="70.73" author="" capturedatetime="2026-06-18T16:45:25" comment="https://maps.app.goo.gl/zRWzoTTQh7t5NSno7" copyright="" customnodeid="" datetime="18/06/2026 16:45" description="Av. General Mac Arthur, Imbiribeira, Recife PE&#xa;Area/Lote: 939,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.11289756" longitude="-34.90176325" nodeid="node103" source="" tags="Amostra36" title="A36_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="80.8911" pan="0.125465" projection="4" tilt="-39.4429"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node104">
+    <input cylinder="1" flat="1" height="886" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node104/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1618">
+      <level height="886" predecode="0" preload="0" width="1618"/>
+      <level height="443" predecode="0" preload="0" width="809"/>
+      <level height="221" predecode="1" preload="1" width="404"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-30T16:09:24" comment="https://maps.app.goo.gl/zRWzoTTQh7t5NSno7" copyright="" customnodeid="" datetime="" description="Av. General Mac Arthur, Imbiribeira, Recife PE&#xa;Area/Lote: 939,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node104" source="" tags="Amostra36" title="A36_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node105">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node105/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.90" author="" capturedatetime="2026-06-18T16:36:35" comment="https://maps.app.goo.gl/zRWzoTTQh7t5NSno7" copyright="" customnodeid="" datetime="18/06/2026 16:36" description="Av. General Mac Arthur, Imbiribeira, Recife PE&#xa;Area/Lote: 939,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.11277778" longitude="-34.90269444" nodeid="node105" source="" tags="Amostra36" title="A36_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.245" pan="162.45" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node106">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node106/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="45.73" author="" capturedatetime="2026-06-18T17:04:07" comment="https://maps.app.goo.gl/HzkLEbJrkfoGhC2v6" copyright="" customnodeid="" datetime="18/06/2026 17:04" description="Rua Feliciano José de Farias 160, Boa Viagem, Recife PE&#xa;Area/Lote: 600,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.13306528" longitude="-34.90504283" nodeid="node106" source="" tags="Amostra37" title="A37_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="99.7477" pan="-5.29124" projection="4" tilt="-41.5713"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node107">
+    <input cylinder="1" flat="1" height="883" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node107/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1615">
+      <level height="883" predecode="0" preload="0" width="1615"/>
+      <level height="441" predecode="0" preload="0" width="807"/>
+      <level height="220" predecode="1" preload="1" width="403"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-06-30T16:20:54" comment="https://maps.app.goo.gl/HzkLEbJrkfoGhC2v6" copyright="" customnodeid="" datetime="" description="Rua Feliciano José de Farias 160, Boa Viagem, Recife PE&#xa;Area/Lote: 600,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node107" source="" tags="Amostra37" title="A37_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node108">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node108/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="1.20" author="" capturedatetime="2026-06-18T16:58:15" comment="https://maps.app.goo.gl/HzkLEbJrkfoGhC2v6" copyright="" customnodeid="" datetime="18/06/2026 16:58" description="Rua Feliciano José de Farias 160, Boa Viagem, Recife PE&#xa;Area/Lote: 600,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.13313889" longitude="-34.90477778" nodeid="node108" source="" tags="Amostra37" title="A37_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="125.834" pan="171.004" projection="4" tilt="-13.1681"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node109">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node109/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="60.92" author="" capturedatetime="2026-06-19T08:02:42" comment="https://maps.app.goo.gl/14ciVRT9HXatkJm58" copyright="" customnodeid="" datetime="19/06/2026 08:02" description="Rua Treze de maio 657, Santo Amaro, Recife PE&#xa;Area/Lote: 3268,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04842322" longitude="-34.88171061" nodeid="node109" source="" tags="Amostra38" title="A38_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="99.411" pan="-3.24454" projection="4" tilt="-40.1602"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node110">
+    <input cylinder="1" flat="1" height="893" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node110/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1627">
+      <level height="893" predecode="0" preload="0" width="1627"/>
+      <level height="446" predecode="0" preload="0" width="813"/>
+      <level height="223" predecode="1" preload="1" width="406"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-01T09:20:48" comment="https://maps.app.goo.gl/14ciVRT9HXatkJm58" copyright="" customnodeid="" datetime="" description="Rua Treze de maio 657, Santo Amaro, Recife PE&#xa;Area/Lote: 3268,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node110" source="" tags="Amostra38" title="A38_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node111">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node111/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="1.50" author="" capturedatetime="2026-06-19T07:56:01" comment="https://maps.app.goo.gl/14ciVRT9HXatkJm58" copyright="" customnodeid="" datetime="19/06/2026 07:56" description="Rua Treze de maio 657, Santo Amaro, Recife PE&#xa;Area/Lote: 3268,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.04858333" longitude="-34.88080556" nodeid="node111" source="" tags="Amostra38" title="A38_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.245" pan="103.243" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node112">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node112/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="55.80" author="" capturedatetime="2026-06-19T08:15:30" comment="https://maps.app.goo.gl/fgfzLWMnv4dwtt2u8" copyright="" customnodeid="" datetime="19/06/2026 08:15" description="Rua Pedro Afonso 120 - 156, Santo Amaro, Recife PE&#xa;Area/Lote: 4000,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05068256" longitude="-34.88062811" nodeid="node112" source="" tags="Amostra39" title="A39_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="107.536" pan="-1.28094" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node113">
+    <input cylinder="1" flat="1" height="886" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node113/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1620">
+      <level height="886" predecode="0" preload="0" width="1620"/>
+      <level height="443" predecode="0" preload="0" width="810"/>
+      <level height="221" predecode="1" preload="1" width="405"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-01T09:45:06" comment="https://maps.app.goo.gl/fgfzLWMnv4dwtt2u8" copyright="" customnodeid="" datetime="" description="Rua Pedro Afonso 120 - 156, Santo Amaro, Recife PE&#xa;Area/Lote: 4000,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node113" source="" tags="Amostra39" title="A39_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node114">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node114/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="2.90" author="" capturedatetime="2026-06-19T08:07:53" comment="https://maps.app.goo.gl/fgfzLWMnv4dwtt2u8" copyright="" customnodeid="" datetime="19/06/2026 08:07" description="Rua Pedro Afonso 120 - 156, Santo Amaro, Recife PE&#xa;Area/Lote: 4000,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05008333" longitude="-34.88058333" nodeid="node114" source="" tags="Amostra39" title="A39_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.26" pan="152.18" projection="4" tilt="7.12393"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node115">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node115/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="119.26" author="" capturedatetime="2026-06-19T09:02:50" comment="https://maps.app.goo.gl/mn14yf7AHEpYbN239" copyright="" customnodeid="" datetime="19/06/2026 09:02" description="Rua Barão de Souza leão 408, Boa Viagem, Recife PE&#xa;Area/Lote: 862,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.13184339" longitude="-34.90382469" nodeid="node115" source="" tags="Amostra40" title="A40_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.093" pan="-3.54023" projection="4" tilt="-65.822"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node116">
+    <input cylinder="1" flat="1" height="884" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node116/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1613">
+      <level height="884" predecode="0" preload="0" width="1613"/>
+      <level height="442" predecode="0" preload="0" width="806"/>
+      <level height="221" predecode="1" preload="1" width="403"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-01T09:57:06" comment="https://maps.app.goo.gl/mn14yf7AHEpYbN239" copyright="" customnodeid="" datetime="" description="Rua Barão de Souza leão 408, Boa Viagem, Recife PE&#xa;Area/Lote: 862,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node116" source="" tags="Amostra40" title="A40_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node117">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node117/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="29.00" author="" capturedatetime="2026-06-19T08:55:23" comment="https://maps.app.goo.gl/mn14yf7AHEpYbN239" copyright="" customnodeid="" datetime="19/06/2026 08:55" description="Rua Barão de Souza leão 408, Boa Viagem, Recife PE&#xa;Area/Lote: 862,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.13152778" longitude="-34.90386111" nodeid="node117" source="" tags="Amostra40" title="A40_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100.067" pan="146.221" projection="4" tilt="0.25397"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node118">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node118/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="55.73" author="" capturedatetime="2026-06-19T09:24:38" comment="https://maps.app.goo.gl/h4HKNQFDyyRriwXZ6" copyright="" customnodeid="" datetime="19/06/2026 09:24" description="Rua Baltazar Passos 611 x rua josé Hipólito Cardoso, Boa Viagem, Recife PE&#xa;Area/Lote: 625,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.14312194" longitude="-34.91019772" nodeid="node118" source="" tags="Amostra41" title="A41_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100.067" pan="-0.435524" projection="4" tilt="-36.4456"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node119">
+    <input height="404" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node119/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="404">
+      <level height="404" predecode="1" preload="1" width="404"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-01T10:08:44" comment="https://maps.app.goo.gl/h4HKNQFDyyRriwXZ6" copyright="" customnodeid="" datetime="" description="Rua Baltazar Passos 611 x rua josé Hipólito Cardoso, Boa Viagem, Recife PE&#xa;Area/Lote: 625,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node119" source="" tags="Amostra41" title="A41_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="-180" tilt="-59.62"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="180" scaletofit="0" tilt="59.62"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node120">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node120/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="12.50" author="" capturedatetime="2026-06-19T09:17:04" comment="https://maps.app.goo.gl/h4HKNQFDyyRriwXZ6" copyright="" customnodeid="" datetime="19/06/2026 09:17" description="Rua Baltazar Passos 611 x rua josé Hipólito Cardoso, Boa Viagem, Recife PE&#xa;Area/Lote: 625,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.14272222" longitude="-34.91000000" nodeid="node120" source="" tags="Amostra41" title="A41_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.921" pan="92.2414" projection="4" tilt="2.15693"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node121">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node121/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="0" preload="0" width="512"/>
+      <level height="256" predecode="1" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="37.34" author="" capturedatetime="2026-06-19T09:58:18" comment="https://maps.app.goo.gl/9t6qXuT7gxp49Bt17" copyright="" customnodeid="" datetime="19/06/2026 09:58" description="Rua Francisco da Cunha 161, Boa Viagem, Recife PE&#xa;Area/Lote: 480,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.11018936" longitude="-34.89376503" nodeid="node121" source="" tags="Amostra42" title="A42_aerea"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.921" pan="-0.443254" projection="4" tilt="-63.376"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node122">
+    <input cylinder="1" flat="1" height="888" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node122/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1618">
+      <level height="888" predecode="0" preload="0" width="1618"/>
+      <level height="444" predecode="0" preload="0" width="809"/>
+      <level height="222" predecode="1" preload="1" width="404"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-01T10:18:02" comment="https://maps.app.goo.gl/9t6qXuT7gxp49Bt17" copyright="" customnodeid="" datetime="" description="Rua Francisco da Cunha 161, Boa Viagem, Recife PE&#xa;Area/Lote: 480,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node122" source="" tags="Amostra42" title="A42_earth"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node123">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node123/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="0" preload="0" width="744"/>
+      <level height="372" predecode="1" preload="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="2.70" author="" capturedatetime="2026-06-19T09:52:07" comment="https://maps.app.goo.gl/9t6qXuT7gxp49Bt17" copyright="" customnodeid="" datetime="19/06/2026 09:52" description="Rua Francisco da Cunha 161, Boa Viagem, Recife PE&#xa;Area/Lote: 480,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.11011111" longitude="-34.89369444" nodeid="node123" source="" tags="Amostra42" title="A42_solo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.921" pan="-23.5742" projection="4" tilt="-4.75056"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{37d9df4f-74f2-4195-aa4e-fbba7d13132b}"/>
+    <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
+    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+    <hotspots smoothmovement="0">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" borderalpha="1" bordercolor="0x000000" borderradius="1" enabled="1" height="20" textalpha="1" textcolor="0x000000" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+  </masternode>
+</tour>
