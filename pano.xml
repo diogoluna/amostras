@@ -52,6 +52,22 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
+  <panorama id="node124">
+    <input cylinder="1" flat="1" height="1582" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node124/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1413">
+      <level height="1582" predecode="0" preload="0" width="1413"/>
+      <level height="791" predecode="0" preload="0" width="706"/>
+      <level height="395" predecode="1" preload="1" width="353"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-09T11:44:12" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node124" source="" tags="Amostra1" title="A1_fonte"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
   <panorama id="node4">
     <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
       <level height="2048" predecode="0" preload="0" width="2048"/>
@@ -100,6 +116,22 @@
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node125">
+    <input cylinder="1" flat="1" height="857" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node125/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1486">
+      <level height="857" predecode="0" preload="0" width="1486"/>
+      <level height="428" predecode="0" preload="0" width="743"/>
+      <level height="214" predecode="1" preload="1" width="371"/>
+      <preview color="0x808080"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-09T12:02:53" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node125" source="" tags="Amostra2e3" title="A2e3_fonte"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
     </view>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -2132,7 +2164,7 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{28f9881c-8f02-4eed-9bab-4af2fa553e2d}"/>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{1ad5fc39-5076-4124-a924-ad56bb9fd646}"/>
     <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
     <animationsequences>
