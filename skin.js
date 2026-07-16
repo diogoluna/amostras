@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 8.0.1/22530
 // Filename: colodete_skin_amaro2.ggsk
-// Generated 2026-07-16T17:24:11Z
+// Generated 2026-07-16T18:58:29Z
 
 function pano2vrSkin(player,base) {
 	player.addVariable('copiado', 2, false, { ignoreInState: 0  });
@@ -2461,7 +2461,7 @@ setTimeout(function() { player.setVariableValue('copiado', false); }, 2000);
 				me._text_imoveis.ggCurrentLogicStateBackgroundColor = newLogicStateBackgroundColor;
 				me._text_imoveis.style.transition='background-color 0s';
 				if (me._text_imoveis.ggCurrentLogicStateBackgroundColor == 0) {
-					me._text_imoveis.style.backgroundColor="rgba(81,17,6,1)";
+					me._text_imoveis.style.backgroundColor="rgba(172,161,8,1)";
 				}
 				else {
 					me._text_imoveis.style.backgroundColor="rgba(156,20,6,1)";
@@ -2595,7 +2595,7 @@ setTimeout(function() { player.setVariableValue('copiado', false); }, 2000);
 				me._text_amostras.ggCurrentLogicStateBackgroundColor = newLogicStateBackgroundColor;
 				me._text_amostras.style.transition='background-color 0s';
 				if (me._text_amostras.ggCurrentLogicStateBackgroundColor == 0) {
-					me._text_amostras.style.backgroundColor="rgba(81,17,6,1)";
+					me._text_amostras.style.backgroundColor="rgba(172,161,8,1)";
 				}
 				else {
 					me._text_amostras.style.backgroundColor="rgba(156,20,6,1)";

@@ -79,7 +79,7 @@
     </input>
     <userdata altitude="79.70" author="" capturedatetime="2026-06-17T09:10:56" comment="https://maps.app.goo.gl/YAqegjj7cFsUQqM79" copyright="" customnodeid="" datetime="17/06/2026 09:10" description="Rua Benfica - nº 1059/ 1066/1087/1075/1061 – Madalena, Recife PE&#xa;Area/Lote: 1431,75 e 1958,65 m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05733550" longitude="-34.90838283" nodeid="node4" source="" tags="Amostra2e3|amostras" title="A2e3 Aérea"/>
     <view fovmode="2" pannorth="0">
-      <start fov="126.58" pan="3.5497" projection="4" tilt="0"/>
+      <start fov="162.798" pan="4.07454" projection="9" tilt="-44.0695"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1408,7 +1408,7 @@
     </input>
     <userdata altitude="5.60" author="" capturedatetime="2026-06-18T08:52:21" comment="https://maps.app.goo.gl/TTXxKLFceDZ6WgAr8" copyright="" customnodeid="" datetime="18/06/2026 08:52" description="Av. Visconde de Suassuna 797 – Santo Amaro, Recife PE&#xa;Area/Lote: 1365,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05097222" longitude="-34.88838889" nodeid="node63" source="" tags="Amostra22|amostras" title="A22 Solo"/>
     <view fovmode="2" pannorth="0">
-      <start fov="147.245" pan="-131.392" projection="4" tilt="-2.81758"/>
+      <start fov="108.697" pan="-163.456" projection="9" tilt="-5.6392"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -1477,7 +1477,7 @@
     </input>
     <userdata altitude="4.70" author="" capturedatetime="2026-06-18T09:10:24" comment="https://maps.app.goo.gl/tCu8ALS1yrX1omri7" copyright="" customnodeid="" datetime="18/06/2026 09:10" description="Rua Afonso Pena Nº 438 – Santo Amaro, Recife PE&#xa;Area/Lote: 1176,00m².&#xa;Rua Afonso Pena Nº 438 – Santo Amaro, Recife PE&#xa;Area/Lote: 1176,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-8.05194444" longitude="-34.88663889" nodeid="node66" source="" tags="Amostra23|amostras" title="A23 Solo"/>
     <view fovmode="2" pannorth="0">
-      <start fov="126.58" pan="0" projection="4" tilt="0"/>
+      <start fov="149.248" pan="-91.6044" projection="9" tilt="-1.10644"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -2728,16 +2728,17 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node119">
-    <input height="404" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node119/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="404">
-      <level height="404" predecode="1" preload="1" width="404"/>
-      <preview color="0xffffff" strip="1"/>
+    <input cylinder="1" flat="1" height="878" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node119/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1617">
+      <level height="878" predecode="0" preload="0" width="1617"/>
+      <level height="439" predecode="0" preload="0" width="808"/>
+      <level height="219" predecode="1" preload="1" width="404"/>
+      <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-01T10:08:44" comment="https://maps.app.goo.gl/h4HKNQFDyyRriwXZ6" copyright="" customnodeid="" datetime="" description="Rua Baltazar Passos 611 x rua josé Hipólito Cardoso, Boa Viagem, Recife PE&#xa;Area/Lote: 625,00m².&#xa;" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node119" source="" tags="Amostra41|amostras" title="A41 Earth"/>
     <view fovmode="2" pannorth="0">
-      <start fov="126.58" pan="0" projection="4" tilt="0"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="1" pan="-180" tilt="-59.62"/>
-      <max fov="120" fovfisheye="360" fovstereographic="270" pan="180" scaletofit="0" tilt="59.62"/>
+      <start fov="126.58" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
     </view>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
