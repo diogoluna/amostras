@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 8.0.1/22530
 // Filename: colodete_skin_amaro2.ggsk
-// Generated 2026-07-16T15:32:05Z
+// Generated 2026-07-16T17:24:11Z
 
 function pano2vrSkin(player,base) {
 	player.addVariable('copiado', 2, false, { ignoreInState: 0  });
@@ -1944,18 +1944,18 @@ function pano2vrSkin(player,base) {
 			me._cloner_imoveis.ggUpdate();
 		}
 		me._scrol_imoveis__content.appendChild(me._cloner_imoveis);
-		el=me._santo_amaro_imoveis=document.createElement('div');
+		el=me._terreno_santo_amaro=document.createElement('div');
 		el.isDragging = function() {
-			let scrollerParent = me._santo_amaro_imoveis;
+			let scrollerParent = me._terreno_santo_amaro;
 			while ((scrollerParent = scrollerParent.parentNode) != null) {
 				if (scrollerParent.hasOwnProperty('ggIsDragging') && scrollerParent.ggIsDragging == true) return true;
 			}
 			return false;
 		}
-		els=me._santo_amaro_imoveis__text=document.createElement('div');
+		els=me._terreno_santo_amaro__text=document.createElement('div');
 		el.className='ggskin ggskin_textdiv';
 		el.ggTextDiv=els;
-		el.ggId="SANTO AMARO IMOVEIS";
+		el.ggId="TERRENO SANTO AMARO";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_text ";
@@ -1990,18 +1990,18 @@ function pano2vrSkin(player,base) {
 		hs+='padding: 0px;';
 		hs+='overflow: hidden;';
 		els.setAttribute('style',hs);
-		me._santo_amaro_imoveis.ggUpdateText=function() {
+		me._terreno_santo_amaro.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("SANTO AMARO IM\xd3VEIS", params);
+			var hs = player._("TERRENO SANTO AMARO", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
 				if (this.ggUpdatePosition) this.ggUpdatePosition();
 			}
 		}
-		me._santo_amaro_imoveis.ggUpdateText();
+		me._terreno_santo_amaro.ggUpdateText();
 		el.appendChild(els);
-		me._santo_amaro_imoveis.ggIsActive=function() {
+		me._terreno_santo_amaro.ggIsActive=function() {
 			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
 				return this.parentNode.ggIsActive();
 			}
@@ -2010,9 +2010,9 @@ function pano2vrSkin(player,base) {
 		el.ggElementNodeId=function() {
 			return player.getCurrentNode();
 		}
-		me._santo_amaro_imoveis.ggUpdatePosition=function (useTransition) {
+		me._terreno_santo_amaro.ggUpdatePosition=function (useTransition) {
 		}
-		me._scrol_imoveis__content.appendChild(me._santo_amaro_imoveis);
+		me._scrol_imoveis__content.appendChild(me._terreno_santo_amaro);
 		me._scrollarea_menu__content.appendChild(me._scrol_imoveis);
 		me._container_1.appendChild(me._scrollarea_menu);
 		me.divSkin.appendChild(me._container_1);

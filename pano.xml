@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="22530" appversion="8.0.1" hassounds="0" start="node1">
+<tour apprev="22530" appversion="8.0.1" hassounds="0" start="node165">
   <panorama id="node1">
     <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
       <level height="2048" predecode="0" preload="0" width="2048"/>
@@ -53,10 +53,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node163">
-    <input cylinder="1" flat="1" height="1254" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node163/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1886">
-      <level height="1254" predecode="0" preload="0" width="1886"/>
-      <level height="627" predecode="0" preload="0" width="943"/>
-      <level height="313" predecode="1" preload="1" width="471"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node163/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-14T17:10:06" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node163" source="" tags="Amostra1|Lote|amostras" title="A1 Anúncio"/>
@@ -121,10 +122,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node164">
-    <input cylinder="1" flat="1" height="824" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node164/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1048">
-      <level height="824" predecode="0" preload="0" width="1048"/>
-      <level height="412" predecode="0" preload="0" width="524"/>
-      <level height="206" predecode="1" preload="1" width="262"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node164/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-14T09:09:41" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node164" source="" tags="Amostra2e3|Lote|amostras" title="A2e3 Anúncio"/>
@@ -189,9 +191,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node131">
-    <input cylinder="1" flat="1" height="892" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node131/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="743">
-      <level height="892" predecode="0" preload="0" width="743"/>
-      <level height="446" predecode="1" preload="1" width="371"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node131/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-14T09:07:36" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node131" source="" tags="Amostra4|Lote|amostras" title="A4 Anúncio"/>
@@ -256,10 +260,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node162">
-    <input cylinder="1" flat="1" height="999" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node162/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1631">
-      <level height="999" predecode="0" preload="0" width="1631"/>
-      <level height="499" predecode="0" preload="0" width="815"/>
-      <level height="249" predecode="1" preload="1" width="407"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node162/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-14T19:10:43" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node162" source="" tags="Amostra5|Lote|amostras" title="A5 Anúncio"/>
@@ -324,10 +329,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node161">
-    <input cylinder="1" flat="1" height="1072" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node161/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1631">
-      <level height="1072" predecode="0" preload="0" width="1631"/>
-      <level height="536" predecode="0" preload="0" width="815"/>
-      <level height="268" predecode="1" preload="1" width="407"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node161/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-14T19:17:59" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node161" source="" tags="Amostra6|Lote|amostras" title="A6 Anúncio"/>
@@ -392,10 +398,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node160">
-    <input cylinder="1" flat="1" height="1456" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node160/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1892">
-      <level height="1456" predecode="0" preload="0" width="1892"/>
-      <level height="728" predecode="0" preload="0" width="946"/>
-      <level height="364" predecode="1" preload="1" width="473"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node160/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-15T10:04:11" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node160" source="" tags="Amostra7|Lote|amostras" title="A7 Anúncio"/>
@@ -460,11 +467,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node159">
-    <input cylinder="1" flat="1" height="1872" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node159/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2440">
-      <level height="1872" predecode="0" preload="0" width="2440"/>
-      <level height="936" predecode="0" preload="0" width="1220"/>
-      <level height="468" predecode="0" preload="0" width="610"/>
-      <level height="234" predecode="1" preload="1" width="305"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node159/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-15T10:10:08" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node159" source="" tags="Amostra8|Lote|amostras" title="A8 Anúncio"/>
@@ -529,10 +536,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node158">
-    <input cylinder="1" flat="1" height="1236" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node158/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1888">
-      <level height="1236" predecode="0" preload="0" width="1888"/>
-      <level height="618" predecode="0" preload="0" width="944"/>
-      <level height="309" predecode="1" preload="1" width="472"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node158/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-15T10:14:36" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node158" source="" tags="Amostra9|Lote|amostras" title="A9 Anúncio"/>
@@ -597,10 +605,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node157">
-    <input cylinder="1" flat="1" height="1252" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node157/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1896">
-      <level height="1252" predecode="0" preload="0" width="1896"/>
-      <level height="626" predecode="0" preload="0" width="948"/>
-      <level height="313" predecode="1" preload="1" width="474"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node157/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-15T10:18:25" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node157" source="" tags="Amostra10|Lote|amostras" title="A10 Anúncio"/>
@@ -665,10 +674,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node156">
-    <input cylinder="1" flat="1" height="1268" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node156/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1900">
-      <level height="1268" predecode="0" preload="0" width="1900"/>
-      <level height="634" predecode="0" preload="0" width="950"/>
-      <level height="317" predecode="1" preload="1" width="475"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node156/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-15T10:49:28" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node156" source="" tags="Amostra11|Lote|amostras" title="A11 Anúncio"/>
@@ -733,10 +743,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node155">
-    <input cylinder="1" flat="1" height="1158" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node155/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1896">
-      <level height="1158" predecode="0" preload="0" width="1896"/>
-      <level height="579" predecode="0" preload="0" width="948"/>
-      <level height="289" predecode="1" preload="1" width="474"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node155/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-15T10:53:43" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node155" source="" tags="Amostra12|Lote|amostras" title="A12 Anúncio"/>
@@ -801,10 +812,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node154">
-    <input cylinder="1" flat="1" height="1288" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node154/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1848">
-      <level height="1288" predecode="0" preload="0" width="1848"/>
-      <level height="644" predecode="0" preload="0" width="924"/>
-      <level height="322" predecode="1" preload="1" width="462"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node154/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-15T11:01:06" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node154" source="" tags="Amostra13|Lote|amostras" title="A13 Anúncio"/>
@@ -869,10 +881,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node153">
-    <input cylinder="1" flat="1" height="1079" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node153/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1654">
-      <level height="1079" predecode="0" preload="0" width="1654"/>
-      <level height="539" predecode="0" preload="0" width="827"/>
-      <level height="269" predecode="1" preload="1" width="413"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node153/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-15T11:46:05" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node153" source="" tags="Amostra14|Lote|amostras" title="A14 Anúncio"/>
@@ -937,10 +950,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node152">
-    <input cylinder="1" flat="1" height="1134" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node152/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1874">
-      <level height="1134" predecode="0" preload="0" width="1874"/>
-      <level height="567" predecode="0" preload="0" width="937"/>
-      <level height="283" predecode="1" preload="1" width="468"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node152/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-16T21:32:55" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node152" source="" tags="Amostra15|Lote|amostras" title="A15 Anúncio"/>
@@ -1005,10 +1019,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node151">
-    <input cylinder="1" flat="1" height="1058" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node151/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1716">
-      <level height="1058" predecode="0" preload="0" width="1716"/>
-      <level height="529" predecode="0" preload="0" width="858"/>
-      <level height="264" predecode="1" preload="1" width="429"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node151/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-17T07:18:34" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node151" source="" tags="Amostra16|Lote|amostras" title="A16 Anúncio"/>
@@ -1073,10 +1088,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node150">
-    <input cylinder="1" flat="1" height="1075" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node150/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1616">
-      <level height="1075" predecode="0" preload="0" width="1616"/>
-      <level height="537" predecode="0" preload="0" width="808"/>
-      <level height="268" predecode="1" preload="1" width="404"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node150/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-17T07:45:14" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node150" source="" tags="Amostra17|Lote|amostras" title="A17 Anúncio"/>
@@ -1141,10 +1157,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node149">
-    <input cylinder="1" flat="1" height="1075" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node149/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1891">
-      <level height="1075" predecode="0" preload="0" width="1891"/>
-      <level height="537" predecode="0" preload="0" width="945"/>
-      <level height="268" predecode="1" preload="1" width="472"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node149/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-17T07:50:35" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node149" source="" tags="Amostra18|Lote|amostras" title="A18 Anúncio"/>
@@ -1209,10 +1226,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node148">
-    <input cylinder="1" flat="1" height="985" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node148/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1638">
-      <level height="985" predecode="0" preload="0" width="1638"/>
-      <level height="492" predecode="0" preload="0" width="819"/>
-      <level height="246" predecode="1" preload="1" width="409"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node148/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-17T07:54:56" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node148" source="" tags="Amostra19|Lote|amostras" title="A19 Anúncio"/>
@@ -1277,10 +1295,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node147">
-    <input cylinder="1" flat="1" height="1070" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node147/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1609">
-      <level height="1070" predecode="0" preload="0" width="1609"/>
-      <level height="535" predecode="0" preload="0" width="804"/>
-      <level height="267" predecode="1" preload="1" width="402"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node147/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-17T07:59:15" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node147" source="" tags="Amostra20|Lote|amostras" title="A20 Anúncio"/>
@@ -1345,10 +1364,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node146">
-    <input cylinder="1" flat="1" height="1079" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node146/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1630">
-      <level height="1079" predecode="0" preload="0" width="1630"/>
-      <level height="539" predecode="0" preload="0" width="815"/>
-      <level height="269" predecode="1" preload="1" width="407"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node146/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2024-06-17T08:01:51" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node146" source="" tags="Amostra21|Lote|amostras" title="A21 Anúncio"/>
@@ -1413,10 +1433,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node144">
-    <input cylinder="1" flat="1" height="832" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node144/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1489">
-      <level height="832" predecode="0" preload="0" width="1489"/>
-      <level height="416" predecode="0" preload="0" width="744"/>
-      <level height="208" predecode="1" preload="1" width="372"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node144/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-29T17:24:34" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node144" source="" tags="Amostra22|Lote|amostras" title="A22 Anúncio"/>
@@ -1481,10 +1502,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node145">
-    <input cylinder="1" flat="1" height="1078" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node145/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1491">
-      <level height="1078" predecode="0" preload="0" width="1491"/>
-      <level height="539" predecode="0" preload="0" width="745"/>
-      <level height="269" predecode="1" preload="1" width="372"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node145/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-29T17:20:55" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node145" source="" tags="Amostra23|Lote|amostras" title="A23 Anúncio"/>
@@ -1549,10 +1571,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node143">
-    <input cylinder="1" flat="1" height="842" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node143/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1484">
-      <level height="842" predecode="0" preload="0" width="1484"/>
-      <level height="421" predecode="0" preload="0" width="742"/>
-      <level height="210" predecode="1" preload="1" width="371"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node143/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-29T17:29:12" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node143" source="" tags="Amostra24|Lote|amostras" title="A24 Anúncio"/>
@@ -1617,10 +1640,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node142">
-    <input cylinder="1" flat="1" height="1079" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node142/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1476">
-      <level height="1079" predecode="0" preload="0" width="1476"/>
-      <level height="539" predecode="0" preload="0" width="738"/>
-      <level height="269" predecode="1" preload="1" width="369"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node142/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-29T17:56:29" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node142" source="" tags="Amostra25|Lote|amostras" title="A25 Anúncio"/>
@@ -1685,10 +1709,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node141">
-    <input cylinder="1" flat="1" height="735" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node141/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1499">
-      <level height="735" predecode="0" preload="0" width="1499"/>
-      <level height="367" predecode="0" preload="0" width="749"/>
-      <level height="183" predecode="1" preload="1" width="374"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node141/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-29T17:56:48" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node141" source="" tags="Amostra26|Lote|amostras" title="A26 Anúncio"/>
@@ -1753,10 +1778,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node140">
-    <input cylinder="1" flat="1" height="1218" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node140/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1519">
-      <level height="1218" predecode="0" preload="0" width="1519"/>
-      <level height="609" predecode="0" preload="0" width="759"/>
-      <level height="304" predecode="1" preload="1" width="379"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node140/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-29T18:03:16" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node140" source="" tags="Amostra27|Lote|amostras" title="A27 Anúncio"/>
@@ -1821,29 +1847,14 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node139">
-    <input cylinder="1" flat="1" height="901" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node139/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1489">
-      <level height="901" predecode="0" preload="0" width="1489"/>
-      <level height="450" predecode="0" preload="0" width="744"/>
-      <level height="225" predecode="1" preload="1" width="372"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node139/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-29T18:06:05" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node139" source="" tags="Amostra28|Lote|amostras" title="A28 Anúncio"/>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" tilt="0"/>
-      <min fov="1" pan="-180" tilt="-90"/>
-      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
-    </view>
-    <media/>
-    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
-  </panorama>
-  <panorama id="node138">
-    <input cylinder="1" flat="1" height="1075" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node138/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1864">
-      <level height="1075" predecode="0" preload="0" width="1864"/>
-      <level height="537" predecode="0" preload="0" width="932"/>
-      <level height="268" predecode="1" preload="1" width="466"/>
-      <preview color="0xffffff"/>
-    </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-05-30T12:57:44" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node138" source="" tags="Amostra29|Lote|amostras" title="A28 Anúncio"/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" tilt="0"/>
       <min fov="1" pan="-180" tilt="-90"/>
@@ -1904,6 +1915,23 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
+  <panorama id="node138">
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node138/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
+      <preview color="0xffffff"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-05-30T12:57:44" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node138" source="" tags="Amostra29|amostras|Lote" title="A29 Anúncio"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" tilt="0"/>
+      <min fov="1" pan="-180" tilt="-90"/>
+      <max fov="100" pan="180" scaletofit="0" tilt="90"/>
+    </view>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
   <panorama id="node85">
     <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node85/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2048">
       <level height="2048" predecode="0" preload="0" width="2048"/>
@@ -1957,10 +1985,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node137">
-    <input cylinder="1" flat="1" height="1079" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node137/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1464">
-      <level height="1079" predecode="0" preload="0" width="1464"/>
-      <level height="539" predecode="0" preload="0" width="732"/>
-      <level height="269" predecode="1" preload="1" width="366"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node137/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-30T13:00:15" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node137" source="" tags="Amostra32|Lote|amostras" title="A30 Anúncio"/>
@@ -2025,10 +2054,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node136">
-    <input cylinder="1" flat="1" height="1608" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node136/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1462">
-      <level height="1608" predecode="0" preload="0" width="1462"/>
-      <level height="804" predecode="0" preload="0" width="731"/>
-      <level height="402" predecode="1" preload="1" width="365"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node136/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-30T13:17:42" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node136" source="" tags="Amostra31|Lote|amostras" title="A31 Anúncio"/>
@@ -2093,10 +2123,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node135">
-    <input cylinder="1" flat="1" height="1638" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node135/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1458">
-      <level height="1638" predecode="0" preload="0" width="1458"/>
-      <level height="819" predecode="0" preload="0" width="729"/>
-      <level height="409" predecode="1" preload="1" width="364"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node135/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-30T13:20:22" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node135" source="" tags="Amostra32|Lote|amostras" title="A32 Anúncio"/>
@@ -2161,10 +2192,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node134">
-    <input cylinder="1" flat="1" height="774" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node134/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1460">
-      <level height="774" predecode="0" preload="0" width="1460"/>
-      <level height="387" predecode="0" preload="0" width="730"/>
-      <level height="193" predecode="1" preload="1" width="365"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node134/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-30T13:22:50" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node134" source="" tags="Amostra33|Lote|amostras" title="A33 Anúncio"/>
@@ -2229,10 +2261,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node133">
-    <input cylinder="1" flat="1" height="968" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node133/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1482">
-      <level height="968" predecode="0" preload="0" width="1482"/>
-      <level height="484" predecode="0" preload="0" width="741"/>
-      <level height="242" predecode="1" preload="1" width="370"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node133/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-30T13:31:11" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node133" source="" tags="Amostra34|Lote|amostras" title="A34 Anúncio"/>
@@ -2297,10 +2330,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node132">
-    <input cylinder="1" flat="1" height="884" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node132/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1448">
-      <level height="884" predecode="0" preload="0" width="1448"/>
-      <level height="442" predecode="0" preload="0" width="724"/>
-      <level height="221" predecode="1" preload="1" width="362"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node132/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-30T13:34:27" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node132" source="" tags="Amostra35|Lote|amostras" title="A35 Anúncio"/>
@@ -2365,10 +2399,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node130">
-    <input cylinder="1" flat="1" height="956" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node130/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1486">
-      <level height="956" predecode="0" preload="0" width="1486"/>
-      <level height="478" predecode="0" preload="0" width="743"/>
-      <level height="239" predecode="1" preload="1" width="371"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node130/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-30T13:37:50" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node130" source="" tags="Amostra36|Lote|amostras" title="A36 Anúncio"/>
@@ -2433,10 +2468,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node129">
-    <input cylinder="1" flat="1" height="1055" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node129/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1525">
-      <level height="1055" predecode="0" preload="0" width="1525"/>
-      <level height="527" predecode="0" preload="0" width="762"/>
-      <level height="263" predecode="1" preload="1" width="381"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node129/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-30T13:44:29" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node129" source="" tags="Amostra37|Lote|amostras" title="A37 Anúncio"/>
@@ -2501,10 +2537,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node128">
-    <input cylinder="1" flat="1" height="1582" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node128/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1413">
-      <level height="1582" predecode="0" preload="0" width="1413"/>
-      <level height="791" predecode="0" preload="0" width="706"/>
-      <level height="395" predecode="1" preload="1" width="353"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node128/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-30T14:02:36" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node128" source="" tags="Amostra38|Lote|amostras" title="A38 Anúncio"/>
@@ -2569,11 +2606,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node127">
-    <input cylinder="1" flat="1" height="1242" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node127/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2268">
-      <level height="1242" predecode="0" preload="0" width="2268"/>
-      <level height="621" predecode="0" preload="0" width="1134"/>
-      <level height="310" predecode="0" preload="0" width="567"/>
-      <level height="155" predecode="1" preload="1" width="283"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node127/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-05-30T14:09:18" comment="" copyright="" customnodeid="" datetime="" description="A39 Lote" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node127" source="" tags="Amostra39|Lote|amostras" title="A39 Anúncio"/>
@@ -2638,10 +2675,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node126">
-    <input cylinder="1" flat="1" height="1055" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node126/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1326">
-      <level height="1055" predecode="0" preload="0" width="1326"/>
-      <level height="527" predecode="0" preload="0" width="663"/>
-      <level height="263" predecode="1" preload="1" width="331"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node126/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-06-10T13:47:22" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node126" source="" tags="Amostra40|Lote|amostras" title="A40 Anúncio"/>
@@ -2705,10 +2743,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node125">
-    <input cylinder="1" flat="1" height="1079" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node125/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1867">
-      <level height="1079" predecode="0" preload="0" width="1867"/>
-      <level height="539" predecode="0" preload="0" width="933"/>
-      <level height="269" predecode="1" preload="1" width="466"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node125/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-06-10T13:50:03" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node125" source="" tags="Amostra41|Lote|amostras" title="A41 Anúncio"/>
@@ -2773,10 +2812,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node124">
-    <input cylinder="1" flat="1" height="1616" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node124/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1252">
-      <level height="1616" predecode="0" preload="0" width="1252"/>
-      <level height="808" predecode="0" preload="0" width="626"/>
-      <level height="404" predecode="1" preload="1" width="313"/>
+    <input cylinder="1" flat="1" height="1504" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node124/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="2261">
+      <level height="1504" predecode="0" preload="0" width="2261"/>
+      <level height="752" predecode="0" preload="0" width="1130"/>
+      <level height="376" predecode="0" preload="0" width="565"/>
+      <level height="188" predecode="1" preload="1" width="282"/>
       <preview color="0xffffff"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-13T12:39:17" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node124" source="" tags="Amostra42|Lote|amostras" title="A42 Anúncio"/>
@@ -2796,7 +2836,7 @@
       <level height="256" predecode="1" preload="1" width="256"/>
       <preview color="0xffffff" strip="1"/>
     </input>
-    <userdata altitude="136.20" author="" capturedatetime="2026-05-23T09:24:22" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:24" description="default" heading="0" hideinlist="0" info="" latitude="8.04919444" longitude="34.87899444" nodeid="node165" source="" tags="pano|SantoAmaro360" title="Sto Amaro 1"/>
+    <userdata altitude="136.20" author="" capturedatetime="2026-05-23T09:24:22" comment="SantoAMaro1&#xa;add link&#xa;&#xa;https://maps.app.goo.gl/8jTHno9wkQwAiBcy8" copyright="" customnodeid="" datetime="23/05/2026 09:24" description="R. Vinte e Quatro de Agosto, 22-280 - Santo Amaro, Recife - Pe" heading="0" hideinlist="0" info="" latitude="8.04919444" longitude="34.87899444" nodeid="node165" source="" tags="pano|SantoAmaro360" title="Sto Amaro 1"/>
     <view fovmode="2" pannorth="0">
       <start fov="102.312" pan="-8.75774" projection="4" tilt="-33.2597"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -2814,7 +2854,7 @@
       <level height="256" predecode="1" preload="1" width="256"/>
       <preview color="0xffffff" strip="1"/>
     </input>
-    <userdata altitude="258.20" author="" capturedatetime="2026-05-23T09:35:44" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:35" description="" heading="0" hideinlist="0" info="" latitude="-8.04775555" longitude="-34.87518888" nodeid="node166" source="" tags="pano|SantoAmaro360" title="Sto Amaro 2"/>
+    <userdata altitude="258.20" author="" capturedatetime="2026-05-23T09:35:44" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:35" description="" heading="0" hideinlist="0" info="" latitude="-8.04775555" longitude="-34.87518888" nodeid="node166" source="" tags="pano|SantoAmaro360|Lote" title="Sto Amaro 2"/>
     <view fovmode="2" pannorth="0">
       <start fov="85.8912" pan="2.95242" projection="4" tilt="-49.161"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -2832,7 +2872,7 @@
       <level height="256" predecode="1" preload="1" width="256"/>
       <preview color="0xffffff" strip="1"/>
     </input>
-    <userdata altitude="252.60" author="" capturedatetime="2026-05-23T09:37:57" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:37" description="" heading="0" hideinlist="0" info="" latitude="-8.04749445" longitude="-34.87981667" nodeid="node167" source="" tags="pano|SantoAmaro360" title="Sto Amaro 3"/>
+    <userdata altitude="252.60" author="" capturedatetime="2026-05-23T09:37:57" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:37" description="" heading="0" hideinlist="0" info="" latitude="-8.04749445" longitude="-34.87981667" nodeid="node167" source="" tags="pano|SantoAmaro360|Lote" title="Sto Amaro 3"/>
     <view fovmode="2" pannorth="0">
       <start fov="78.2711" pan="-0.408354" projection="4" tilt="-33.4699"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -2850,7 +2890,7 @@
       <level height="256" predecode="1" preload="1" width="256"/>
       <preview color="0xffffff" strip="1"/>
     </input>
-    <userdata altitude="238.10" author="" capturedatetime="2026-05-23T09:31:51" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:31" description="" heading="0" hideinlist="0" info="" latitude="-8.05227778" longitude="-34.87273333" nodeid="node168" source="" tags="pano|SantoAmaro360" title="Sto Amaro 4"/>
+    <userdata altitude="238.10" author="" capturedatetime="2026-05-23T09:31:51" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:31" description="" heading="0" hideinlist="0" info="" latitude="-8.05227778" longitude="-34.87273333" nodeid="node168" source="" tags="pano|SantoAmaro360|Lote" title="Sto Amaro 4"/>
     <view fovmode="2" pannorth="0">
       <start fov="78.2711" pan="-0.408354" projection="4" tilt="-24.2238"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -2868,7 +2908,7 @@
       <level height="256" predecode="1" preload="1" width="256"/>
       <preview color="0xffffff" strip="1"/>
     </input>
-    <userdata altitude="139.30" author="" capturedatetime="2026-05-23T09:27:40" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:27" description="" heading="0" hideinlist="0" info="" latitude="-8.05075000" longitude="-34.87492778" nodeid="node169" source="" tags="pano|SantoAmaro360" title="Sto Amaro 5"/>
+    <userdata altitude="139.30" author="" capturedatetime="2026-05-23T09:27:40" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:27" description="" heading="0" hideinlist="0" info="" latitude="-8.05075000" longitude="-34.87492778" nodeid="node169" source="" tags="pano|SantoAmaro360|Lote" title="Sto Amaro 5"/>
     <view fovmode="2" pannorth="0">
       <start fov="125.834" pan="-0.198617" projection="4" tilt="-37.7975"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -2886,7 +2926,7 @@
       <level height="256" predecode="1" preload="1" width="256"/>
       <preview color="0xffffff" strip="1"/>
     </input>
-    <userdata altitude="119.50" author="" capturedatetime="2026-05-23T09:19:24" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:19" description="" heading="0" hideinlist="0" info="" latitude="-8.04816112" longitude="-34.87655555" nodeid="node170" source="" tags="pano|SantoAmaro360" title="Sto Amaro 6"/>
+    <userdata altitude="119.50" author="" capturedatetime="2026-05-23T09:19:24" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:19" description="" heading="0" hideinlist="0" info="" latitude="-8.04816112" longitude="-34.87655555" nodeid="node170" source="" tags="pano|SantoAmaro360|Lote" title="Sto Amaro 6"/>
     <view fovmode="2" pannorth="0">
       <start fov="125.834" pan="18.8067" projection="4" tilt="-32.6873"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -2904,7 +2944,7 @@
       <level height="256" predecode="1" preload="1" width="256"/>
       <preview color="0xffffff" strip="1"/>
     </input>
-    <userdata altitude="237.90" author="" capturedatetime="2026-05-23T09:34:11" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:34" description="" heading="0" hideinlist="0" info="" latitude="-8.04688333" longitude="-34.87431388" nodeid="node171" source="" tags="pano|SantoAmaro360" title="Sto Amaro 7"/>
+    <userdata altitude="237.90" author="" capturedatetime="2026-05-23T09:34:11" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:34" description="" heading="0" hideinlist="0" info="" latitude="-8.04688333" longitude="-34.87431388" nodeid="node171" source="" tags="pano|SantoAmaro360|Lote" title="Sto Amaro 7"/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="-4.13487" projection="4" tilt="-26.5538"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -2922,7 +2962,7 @@
       <level height="256" predecode="1" preload="1" width="256"/>
       <preview color="0xffffff" strip="1"/>
     </input>
-    <userdata altitude="252.30" author="" capturedatetime="2026-05-23T09:40:42" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:40" description="" heading="0" hideinlist="0" info="" latitude="-8.05320833" longitude="-34.87928612" nodeid="node172" source="" tags="pano|SantoAmaro360" title="Sto Amaro 8"/>
+    <userdata altitude="252.30" author="" capturedatetime="2026-05-23T09:40:42" comment="" copyright="" customnodeid="" datetime="23/05/2026 09:40" description="" heading="0" hideinlist="0" info="" latitude="-8.05320833" longitude="-34.87928612" nodeid="node172" source="" tags="pano|SantoAmaro360|Lote" title="Sto Amaro 8"/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="-0.625167" projection="4" tilt="-26.4704"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -2933,7 +2973,7 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" copyright="" description="" tags="" title="SANTO AMARO" uuid="{7af52ddf-e496-439f-a3ee-ea4fa6bb2b84}"/>
+    <userdata author="" comment="" copyright="" description="" tags="" title="SANTO AMARO" uuid="{58734cdc-eb39-437f-9f18-5fcdd09feb0d}"/>
     <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
     <animationsequences>
